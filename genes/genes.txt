@@ -1,0 +1,120 @@
+1||Physical mapping 220 kb centromeric of the human MHC and DNA sequence analysis of the 43 - kb segment including the RING1 , HKE6 , and HKE4 genes .
+RING1 	 6015
+HKE6 	 7923
+HKE4 	 7922
+
+2||DNA elements recognizing NF - Y and Sp1 regulate the human multidrug - resistance gene promoter .
+NF - Y 	 4800
+Sp1 	 6667
+
+
+3||As tat itself dramatically increases HIV - 1 gene expression , it too is presumably regulated in the latent state , and may also be activated by mitogenic stimulation .
+tat 	 6898
+
+4||To clarify the difference , both the Crk II and Crk II - 23 , proteins were expressed in E . coli and examined their binding capacity in vitro .
+Crk II 	 1398
+Crk II - 23 	 1398
+
+
+5||Id - 1H and Id - 2H seem to be human homologues of mouse Id - 1 and Id - 2 , respectively , and have potential to encode 154 and 135 amino acid proteins .
+Id - 1H 	 3397
+Id - 2H 	 3398
+Id - 1 	 3397
+Id - 2 	 3398
+
+
+6||A GT - rich sequence binding the transcription factor Sp1 is crucial for high expression of the human type VII collagen gene ( COL7A1 ) in fibroblasts and keratinocytes .
+transcription factor Sp1 	 6667
+human type VII collagen gene 	 1294
+COL7A1 	 1294
+
+
+7||Effects of long - term use of raloxifene , a selective estrogen receptor modulator , on thyroid function test profiles .
+estrogen receptor 	 2099
+
+8||Alternative splicing of the human serotonin transporter gene .
+human serotonin transporter 	 6532
+
+9||Interestingly , basal MAPK , but not Raf - 1 , activity was constitutively enhanced in Jak1 - deficient HeLa cells .
+MAPK 	 5594
+Raf - 1 	 5894
+Jak1 	 3716
+
+
+10||Synergy between interferon - gamma and tumor necrosis factor - alpha in transcriptional activation is mediated by cooperation between signal transducer and activator of transcription 1 and nuclear factor kappaB .
+interferon - gamma 	 3458
+tumor necrosis factor - alpha 	 7124
+signal transducer and activator of transcription 1 	 6772
+nuclear factor kappaB 	 4790
+
+
+11||A cDNA for human microfibril - associated glycoprotein - 2 ( MAGP - 2 ) was used to screen a human leukocyte genomic DNA library in EMBL - 3 vector .
+human microfibril - associated glycoprotein - 2 	 8076
+MAGP - 2 	 8076
+
+12||Furthermore , ERK phosphorylation was substantially prolonged in LC / BRY - treated cells compared to those exposed to BRY alone , and pretreatment with the highly specific MEK inhibitors , PD98059 , U0126 , and SL327 , opposed ERK activation while protecting cells from LC / BRY - induced lethality .
+ERK 	 5594
+MEK 	 5609
+ERK 	 5594
+
+13||The cholesterol 7alpha - hydroxylase gene ( CYP7A ) is transcriptionally regulated by a number of factors , including hormones , bile acids , and diurnal rhythm .
+cholesterol 7alpha - hydroxylase 	 1581
+CYP7A 	 1581
+
+14||The levels of soluble L - selectin and ICAM - 1 in the serum were determined by the ELISA method .
+L - selectin 	 6402
+ICAM - 1 	 3383
+
+15||Glutathione reductase activities in liver , kidney , lung , and brain were not affected by diet .
+Glutathione reductase 	 2936
+
+
+16||Tbx6 maps to chromosome 7 and does not appear to be linked to any known mutation .
+Tbx6 	 6911
+
+17||Importin beta mediates nuclear translocation of Smad 3 .
+Importin beta 	 3837
+Smad 3 	 4088
+
+
+18||Several studies have demonstrated that the corticotropin - releasing factor test ( CRF ) is useful for the aetiological diagnosis of Cushing ' s syndrome : in Cushing ' s disease , as opposed to ectopic ACTH secretion syndrome , the hypothalamus - pituitary - adrenal ( HPA ) axis can still be stimulated by CRF .
+corticotropin - releasing factor 	 1392
+CRF 	 1392
+ACTH 	 5443
+CRF 	 1392
+
+19||The results of the transient - transfection assay showed that the Sp1 binding element located in the core region ( positions - - 64 to + 1 ) of the alpha2 - integrin promoter plays an essential role in the alpha2 - integrin promoter activity and its downregulation by Erb - B2 .
+Sp1 	 6667
+alpha2 - integrin 	 3673
+alpha2 - integrin 	 3673
+Erb - B2 	 2064
+
+
+20||Interaction of the v - rel protein with an NF - kappa B DNA binding site .
+v - rel protein 	 5966
+NF - kappa B 	 4790
+
+
+21||SHBG concentrations in women were also significantly higher at T - 2 and T - 3 when compared to T - 1 values .
+SHBG 	 6462
+
+22||Simvastatin decreased levels of total cholesterol by 20 . 8 % , LDL cholesterol by 29 . 7 % , triglycerides by 13 . 6 % , apolipoprotein B by 22 . 4 % , alpha - tocopherol by 16 . 2 % , beta - carotene by 19 . 5 % , and ubiquinol - 10 by 22 . 0 % ( P < . 001 for all ) and increased levels of HDL cholesterol by 7 . 0 % ( P < . 001 ) and serum insulin by 13 . 2 % ( P = . 005 ) .
+apolipoprotein B 	 338
+
+
+23||They are growth - inhibited by TGF - beta1 .
+TGF - beta1 	 7040
+
+
+24||This is consistent with the need for a nuclear retinoid receptor function in RA - induced ERK2 activation .
+ERK2 	 5594-37670
+
+
+25||LT - beta transcription is maximal in the thymic medulla and in splenic white pulp .
+LT - beta 	 4050
+
+
+26||We report that Nim1 possesses intrinsic serine - kinase , threonine - kinase and tyrosine - kinase activities .
+Nim1 	 167359
+
+

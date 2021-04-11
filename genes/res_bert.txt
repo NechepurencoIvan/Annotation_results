@@ -1,0 +1,116 @@
+1||Physical mapping 220 kb centromeric of the human MHC and DNA sequence analysis of the 43 - kb segment including the RING1 , HKE6 , and HKE4 genes .
+human MHC 	 CUI-less
+RING1 	 6015-68283
+HKE6 	 7923-56588
+HKE4 	 7922-5072
+
+2||DNA elements recognizing NF - Y and Sp1 regulate the human multidrug - resistance gene promoter .
+NF - Y 	 CUI-less
+Sp1 	 6667-8276
+human multidrug - resistance promoter 	 CUI-less
+
+3||As tat itself dramatically increases HIV - 1 gene expression , it too is presumably regulated in the latent state , and may also be activated by mitogenic stimulation .
+tat 	 6898-37293
+
+4||To clarify the difference , both the Crk II and Crk II - 23 , proteins were expressed in E . coli and examined their binding capacity in vitro .
+Crk II 	 1398-81850
+Crk II - 23 	 CUI-less
+
+5||Id - 1H and Id - 2H seem to be human homologues of mouse Id - 1 and Id - 2 , respectively , and have potential to encode 154 and 135 amino acid proteins .
+Id - 1H 	 CUI-less
+Id - 2H 	 3398-1632
+mouse Id - 1 	 CUI-less
+Id - 2 	 3398-1632
+
+6||A GT - rich sequence binding the transcription factor Sp1 is crucial for high expression of the human type VII collagen gene ( COL7A1 ) in fibroblasts and keratinocytes .
+transcription factor Sp1 	 CUI-less
+human type VII collagen 	 CUI-less
+COL7A1 	 1294-73
+
+7||Effects of long - term use of raloxifene , a selective estrogen receptor modulator , on thyroid function test profiles .
+estrogen receptor 	 2099-47906
+
+8||Alternative splicing of the human serotonin transporter gene .
+human serotonin transporter 	 CUI-less
+
+9||Interestingly , basal MAPK , but not Raf - 1 , activity was constitutively enhanced in Jak1 - deficient HeLa cells .
+MAPK 	 CUI-less
+Raf - 1 	 5894-48145
+Jak1 	 3716-1678
+
+10||Synergy between interferon - gamma and tumor necrosis factor - alpha in transcriptional activation is mediated by cooperation between signal transducer and activator of transcription 1 and nuclear factor kappaB .
+interferon - gamma 	 3458-55526
+tumor necrosis factor - alpha 	 7124-496
+signal transducer and activator of transcription 1 	 6772-21428
+nuclear factor kappaB 	 CUI-less
+
+11||A cDNA for human microfibril - associated glycoprotein - 2 ( MAGP - 2 ) was used to screen a human leukocyte genomic DNA library in EMBL - 3 vector .
+human microfibril - associated glycoprotein - 2 	 CUI-less
+MAGP - 2 	 8076-2599
+
+12||Furthermore , ERK phosphorylation was substantially prolonged in LC / BRY - treated cells compared to those exposed to BRY alone , and pretreatment with the highly specific MEK inhibitors , PD98059 , U0126 , and SL327 , opposed ERK activation while protecting cells from LC / BRY - induced lethality .
+ERK 	 5594-37670
+BRY 	 CUI-less
+BRY 	 CUI-less
+MEK 	 5609-56548
+ERK 	 5594-37670
+BRY 	 CUI-less
+
+13||The cholesterol 7alpha - hydroxylase gene ( CYP7A ) is transcriptionally regulated by a number of factors , including hormones , bile acids , and diurnal rhythm .
+cholesterol 7alpha - hydroxylase 	 1581-30987
+CYP7A 	 CUI-less
+
+14||The levels of soluble L - selectin and ICAM - 1 in the serum were determined by the ELISA method .
+L - selectin 	 6402-539
+ICAM - 1 	 3383-168
+
+15||Glutathione reductase activities in liver , kidney , lung , and brain were not affected by diet .
+Glutathione reductase 	 2936-531
+
+16||Tbx6 maps to chromosome 7 and does not appear to be linked to any known mutation .
+Tbx6 	 6911-3389
+
+17||Importin beta mediates nuclear translocation of Smad 3 .
+Importin beta 	 CUI-less
+Smad 3 	 4088-55937
+
+18||Several studies have demonstrated that the corticotropin - releasing factor test ( CRF ) is useful for the aetiological diagnosis of Cushing ' s syndrome : in Cushing ' s disease , as opposed to ectopic ACTH secretion syndrome , the hypothalamus - pituitary - adrenal ( HPA ) axis can still be stimulated by CRF .
+corticotropin - releasing factor 	 1392-599
+CRF 	 1392-599
+ACTH 	 5443-723
+CRF 	 1392-599
+
+19||The results of the transient - transfection assay showed that the Sp1 binding element located in the core region ( positions - - 64 to + 1 ) of the alpha2 - integrin promoter plays an essential role in the alpha2 - integrin promoter activity and its downregulation by Erb - B2 .
+Sp1 binding element 	 CUI-less
+alpha2 - integrin promoter 	 CUI-less
+alpha2 - integrin promoter 	 CUI-less
+Erb - B2 	 2064-3273
+
+20||Interaction of the v - rel protein with an NF - kappa B DNA binding site .
+v - rel protein 	 CUI-less
+NF - kappa B DNA binding site 	 CUI-less
+
+21||SHBG concentrations in women were also significantly higher at T - 2 and T - 3 when compared to T - 1 values .
+SHBG 	 6462-813
+
+22||Simvastatin decreased levels of total cholesterol by 20 . 8 % , LDL cholesterol by 29 . 7 % , triglycerides by 13 . 6 % , apolipoprotein B by 22 . 4 % , alpha - tocopherol by 16 . 2 % , beta - carotene by 19 . 5 % , and ubiquinol - 10 by 22 . 0 % ( P < . 001 for all ) and increased levels of HDL cholesterol by 7 . 0 % ( P < . 001 ) and serum insulin by 13 . 2 % ( P = . 005 ) .
+LDL cholesterol 	 CUI-less
+apolipoprotein B 	 338-328
+HDL cholesterol 	 CUI-less
+serum insulin 	 CUI-less
+
+23||They are growth - inhibited by TGF - beta1 .
+TGF - beta1 	 7040-540
+
+24||This is consistent with the need for a nuclear retinoid receptor function in RA - induced ERK2 activation .
+nuclear retinoid receptor 	 CUI-less
+ERK2 	 5594-37670
+
+25||LT - beta transcription is maximal in the thymic medulla and in splenic white pulp .
+LT - beta 	 4050-1752
+
+26||We report that Nim1 possesses intrinsic serine - kinase , threonine - kinase and tyrosine - kinase activities .
+Nim1 	 167359-25286
+serine - kinase 	 CUI-less
+threonine - kinase 	 CUI-less
+tyrosine - kinase 	 7294-2497

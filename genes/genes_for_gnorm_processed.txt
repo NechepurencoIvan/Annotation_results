@@ -1,0 +1,127 @@
+1|t|None
+1|a|Physical mapping 220 kb centromeric of the human MHC and DNA sequence analysis of the 43 - kb segment including the RING1 , HKE6 , and HKE4 genes .
+1	54	57	MHC	Gene	3133
+1	121	126	RING1	Gene	6015
+1	129	133	HKE6	Gene	7923
+1	140	144	HKE4	Gene	7922
+1	48	53	human	Species	9606
+
+2|t|None
+2|a|DNA elements recognizing NF - Y and Sp1 regulate the human multidrug - resistance gene promoter .
+2	41	44	Sp1	Gene	6667
+2	58	63	human	Species	9606
+
+3|t|None
+3|a|As tat itself dramatically increases HIV - 1 gene expression , it too is presumably regulated in the latent state , and may also be activated by mitogenic stimulation .
+3	42	49	HIV - 1	Species	11676
+
+4|t|None
+4|a|To clarify the difference , both the Crk II and Crk II - 23 , proteins were expressed in E . coli and examined their binding capacity in vitro .
+4	42	48	Crk II	Gene	1398
+4	94	102	E . coli	Species	562
+
+5|t|None
+5|a|Id - 1H and Id - 2H seem to be human homologues of mouse Id - 1 and Id - 2 , respectively , and have potential to encode 154 and 135 amino acid proteins .
+5	5	24	Id - 1H and Id - 2H	Gene	3398
+5	62	79	Id - 1 and Id - 2	Gene	3397;3398
+5	36	41	human	Species	9606
+5	56	61	mouse	Species	10090
+
+6|t|None
+6|a|A GT - rich sequence binding the transcription factor Sp1 is crucial for high expression of the human type VII collagen gene ( COL7A1 ) in fibroblasts and keratinocytes .
+6	59	62	Sp1	Gene	6667
+6	132	138	COL7A1	Gene	1294
+6	101	106	human	Species	9606
+
+7|t|None
+7|a|Effects of long - term use of raloxifene , a selective estrogen receptor modulator , on thyroid function test profiles .
+
+8|t|None
+8|a|Alternative splicing of the human serotonin transporter gene .
+8	39	60	serotonin transporter	Gene	6532
+8	33	38	human	Species	9606
+
+9|t|None
+9|a|Interestingly , basal MAPK , but not Raf - 1 , activity was constitutively enhanced in Jak1 - deficient HeLa cells .
+9	42	49	Raf - 1	Gene	5894
+9	92	96	Jak1	Gene	3716
+9	109	113	HeLa	CellLine	9606
+
+10|t|None
+10|a|Synergy between interferon - gamma and tumor necrosis factor - alpha in transcriptional activation is mediated by cooperation between signal transducer and activator of transcription 1 and nuclear factor kappaB .
+10	21	73	interferon - gamma and tumor necrosis factor - alpha	Gene	3458;7124
+10	139	189	signal transducer and activator of transcription 1	Gene	6772
+
+11|t|None
+11|a|A cDNA for human microfibril - associated glycoprotein - 2 ( MAGP - 2 ) was used to screen a human leukocyte genomic DNA library in EMBL - 3 vector .
+11	22	63	microfibril - associated glycoprotein - 2	Gene	8076
+11	66	74	MAGP - 2	Gene	8076
+11	16	21	human	Species	9606
+11	98	103	human	Species	9606
+
+12|t|None
+12|a|Furthermore , ERK phosphorylation was substantially prolonged in LC / BRY - treated cells compared to those exposed to BRY alone , and pretreatment with the highly specific MEK inhibitors , PD98059 , U0126 , and SL327 , opposed ERK activation while protecting cells from LC / BRY - induced lethality .
+12	19	22	ERK	Gene	5594
+12	233	236	ERK	Gene	5594
+
+13|t|None
+13|a|The cholesterol 7alpha - hydroxylase gene ( CYP7A ) is transcriptionally regulated by a number of factors , including hormones , bile acids , and diurnal rhythm .
+13	9	41	cholesterol 7alpha - hydroxylase	Gene	1581
+
+14|t|None
+14|a|The levels of soluble L - selectin and ICAM - 1 in the serum were determined by the ELISA method .
+14	27	39	L - selectin	Gene	6402
+14	44	52	ICAM - 1	Gene	3383
+
+15|t|None
+15|a|Glutathione reductase activities in liver , kidney , lung , and brain were not affected by diet .
+15	5	26	Glutathione reductase	Gene	2936
+
+16|t|None
+16|a|Tbx6 maps to chromosome 7 and does not appear to be linked to any known mutation .
+16	5	9	Tbx6	Gene	6911
+
+17|t|None
+17|a|Importin beta mediates nuclear translocation of Smad 3 .
+17	53	59	Smad 3	Gene	4088
+
+18|t|None
+18|a|Several studies have demonstrated that the corticotropin - releasing factor test ( CRF ) is useful for the aetiological diagnosis of Cushing ' s syndrome : in Cushing ' s disease , as opposed to ectopic ACTH secretion syndrome , the hypothalamus - pituitary - adrenal ( HPA ) axis can still be stimulated by CRF .
+18	48	80	corticotropin - releasing factor	Gene	1392
+18	88	91	CRF	Gene	1392
+18	313	316	CRF	Gene	1392
+
+19|t|None
+19|a|The results of the transient - transfection assay showed that the Sp1 binding element located in the core region ( positions - - 64 to + 1 ) of the alpha2 - integrin promoter plays an essential role in the alpha2 - integrin promoter activity and its downregulation by Erb - B2 .
+19	71	74	Sp1	Gene	6667
+19	273	276	Erb	Gene	2100
+
+20|t|None
+20|a|Interaction of the v - rel protein with an NF - kappa B DNA binding site .
+20	48	60	NF - kappa B	Gene	4790
+
+21|t|None
+21|a|SHBG concentrations in women were also significantly higher at T - 2 and T - 3 when compared to T - 1 values .
+21	5	9	SHBG	Gene	6462
+21	28	33	women	Species	9606
+
+22|t|None
+22|a|Simvastatin decreased levels of total cholesterol by 20 . 8 % , LDL cholesterol by 29 . 7 % , triglycerides by 13 . 6 % , apolipoprotein B by 22 . 4 % , alpha - tocopherol by 16 . 2 % , beta - carotene by 19 . 5 % , and ubiquinol - 10 by 22 . 0 % ( P < . 001 for all ) and increased levels of HDL cholesterol by 7 . 0 % ( P < . 001 ) and serum insulin by 13 . 2 % ( P = . 005 ) .
+22	127	143	apolipoprotein B	Gene	338
+
+23|t|None
+23|a|They are growth - inhibited by TGF - beta1 .
+23	36	47	TGF - beta1	Gene	7040
+
+24|t|None
+24|a|This is consistent with the need for a nuclear retinoid receptor function in RA - induced ERK2 activation .
+24	95	99	ERK2	Gene	5594
+
+25|t|None
+25|a|LT - beta transcription is maximal in the thymic medulla and in splenic white pulp .
+25	5	14	LT - beta	Gene	4049
+
+26|t|None
+26|a|We report that Nim1 possesses intrinsic serine - kinase , threonine - kinase and tyrosine - kinase activities .
+26	20	24	Nim1	Gene	167359
+
