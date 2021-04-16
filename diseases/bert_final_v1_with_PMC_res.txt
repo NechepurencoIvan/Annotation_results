@@ -1,30 +1,20 @@
 9949209|t|Genetic mapping of the copper toxicosis locus in Bedlington terriers to dog chromosome 10, in a region syntenic to human chromosome region 2p13-p16.
 9949209|a|Abnormal hepatic copper accumulation is recognized as an inherited disorder in man, mouse, rat and dog. The major cause of hepatic copper accumulation in man is a dysfunctional ATP7B gene, causing Wilson disease (WD). Mutations in the ATP7B genes have also been demonstrated in mouse and rat. The ATP7B gene has been excluded in the much rarer human copper overload disease non-Indian childhood cirrhosis, indicating genetic heterogeneity. By investigating the common autosomal recessive copper toxicosis (CT) in Bedlington terriers, we have identified a new locus involved in progressive liver disease. We examined whether the WD gene ATP7B was also causative for CT by investigating the chromosomal co-localization of ATP7B and C04107, using fluorescence in situ hybridization (FISH). C04107 is an anonymous microsatellite marker closely linked to CT. However, BAC clones containing ATP7B and C04107 mapped to the canine chromosome regions CFA22q11 and CFA10q26, respectively, demonstrating that WD cannot be homologous to CT. The copper transport genes CTR1 and CTR2 were also excluded as candidate genes for CT since they both mapped to canine chromosome region CFA11q22. 2-22. 5. A transcribed sequence identified from the C04107-containing BAC was found to be homologous to a gene expressed from human chromosome 2p13-p16, a region devoid of any positional candidate genes. 
 9949209	copper toxicosis	MESH:C565846
-9949209	indian	MESH:C562580
-9949209	indian	MESH:C562580
-9949209	abnormal	MESH:D018376
-9949209	inherited disorder	MESH:D030342
-9949209	indian	MESH:C562580
-9949209	hepatic copper accumulation	MESH:C535468
-9949209	indian	MESH:C562580
-9949209	wilson disease	MESH:D006527
-9949209	wilson disease	MESH:D006527
-9949209	indian	MESH:C562580
-9949209	indian	MESH:C562580
-9949209	indian	MESH:C562580
-9949209	disease	MESH:D003141
-9949209	indian	MESH:C562580
-9949209	childhood	MESH:C536928
-9949209	autosomal	MESH:D030342
-9949209	copper toxicosis	MESH:C565846
-9949209	indian	MESH:C562580
 9949209	bedlington	BERN:CUI-less
-9949209	indian	MESH:C562580
+9949209	hepatic copper accumulation	MESH:C535468
+9949209	inherited disorder	MESH:D030342
+9949209	hepatic copper accumulation	MESH:C535468
+9949209	wilson disease	MESH:D006527
+9949209	wilson disease	MESH:D006527
+9949209	disease	MESH:D003141
+9949209	cirrhosis	MESH:D005355
+9949209	copper toxicosis	MESH:C565846
+9949209	copper toxicosis	MESH:C565846
+9949209	bedlington	BERN:CUI-less
 9949209	liver disease	MESH:D008107
 9949209	wilson disease	MESH:D006527
 9949209	copper toxicosis	MESH:C565846
-9949209	indian	MESH:C562580
 9949209	copper toxicosis	MESH:C565846
 9949209	wilson disease	MESH:D006527
 9949209	copper toxicosis	MESH:C565846
@@ -43,7 +33,7 @@
 9950360	adenomatous polyposis coli	MESH:D011125
 9950360	adenomatous polyposis coli	MESH:D011125
 9950360	adenomatous polyposis coli	MESH:D011125
-9950360	familial adenomatous polyposis	MESH:D011125
+9950360	non -	BERN:258557501
 9950360	colorectal cancer	MESH:D015179
 9950360	adenomatous polyposis coli	MESH:D011125
 9950360	familial adenomatous polyposis	MESH:D011125
@@ -54,7 +44,7 @@
 9950360	colorectal cancer	MESH:D015179
 9950360	familial adenomatous polyposis	MESH:D011125
 9950360	adenomatous polyposis coli	MESH:D011125
-9950360	fap	MESH:C567782
+9950360	familial adenomatous polyposis	MESH:D011125
 9950360	familial adenomatous polyposis	MESH:D011125
 9950360	colorectal cancer	MESH:D015179
 
@@ -86,7 +76,7 @@
 9674903	maternal uniparental disomy	MESH:D024182
 9674903	prader - willi syndrome	MESH:D011218
 9674903	prader - willi syndrome	MESH:D011218
-9674903	disomy	MESH:D024182
+9674903	maternal disomy 15	BERN:267411601
 9674903	prader - willi syndrome	MESH:D011218
 9674903	prader - willi syndrome	MESH:D011218
 9674903	prader - willi syndrome	MESH:D011218
@@ -105,7 +95,6 @@
 9863607	autosomal dominant disease	MESH:D030342
 9863607	infertility	MESH:D007247
 9863607	congenital myotonic dystrophy	MESH:D009223
-9863607	cdm	MESH:D020967
 9863607	myotonic dystrophy	MESH:D009223
 9863607	myotonic dystrophy	MESH:D009223
 9863607	myotonic dystrophy	MESH:D009223
@@ -118,10 +107,11 @@
 
 9443866|t|Ataxia-telangiectasia: identification and detection of founder-effect mutations in the ATM gene in ethnic populations.
 9443866|a|To facilitate the evaluation of ATM heterozygotes for susceptibility to other diseases, such as breast cancer, we have attempted to define the most common mutations and their frequencies in ataxia-telangiectasia (A-T) homozygotes from 10 ethnic populations. Both genomic mutations and their effects on cDNA were characterized. Protein-truncation testing of the entire ATM cDNA detected 92 (66%) truncating mutations in 140 mutant alleles screened. The haplotyping of patients with identical mutations indicates that almost all of these represent common ancestry and that very few spontaneously recurring ATM mutations exist. Assays requiring minimal amounts of genomic DNA were designed to allow rapid screening for common ethnic mutations. These rapid assays detected mutations in 76% of Costa Rican patients (3), 50% of Norwegian patients (1), 25% of Polish patients (4), and 14% of Italian patients (1), as well as in patients of Amish/Mennonite and Irish English backgrounds. Additional mutations were observed in Japanese, Utah Mormon, and African American patients. These assays should facilitate screening for A-T heterozygotes in the populations studied.. 
+9443866	ataxia - telangiectasia	MESH:D001260
 9443866	breast cancer	MESH:D001943
 9443866	ataxia - telangiectasia	MESH:D001260
 9443866	a - t	MESH:D001260
-9443866	polish	BERN:CUI-less
+9443866	utah mormon	BERN:CUI-less
 
 9311732|t|Constitutional RB1-gene mutations in patients with isolated unilateral retinoblastoma.
 9311732|a|In most patients with isolated unilateral retinoblastoma, tumor development is initiated by somatic inactivation of both alleles of the RB1 gene. However, some of these patients can transmit retinoblastoma predisposition to their offspring. To determine the frequency and nature of constitutional RB1-gene mutations in patients with isolated unilateral retinoblastoma, we analyzed DNA from peripheral blood and from tumor tissue. The analysis of tumors from 54 (71%) of 76 informative patients showed loss of constitutional heterozygosity (LOH) at intragenic loci. Three of 13 uninformative patients had constitutional deletions. For 39 randomly selected tumors, SSCP, hetero-duplex analysis, sequencing, and Southern blot analysis were used to identify mutations. Mutations were detected in 21 (91%) of 23 tumors with LOH. In 6 (38%) of 16 tumors without LOH, one mutation was detected, and in 9 (56%) of the tumors without LOH, both mutations were found. Thus, a total of 45 mutations were identified in tumors of 36 patients. Thirty-nine of the mutations-including 34 small mutations, 2 large structural alterations, and hypermethylation in 3 tumors-were not detected in the corresponding peripheral blood DNA. In 6 (17%) of the 36 patients, a mutation was detected in constitutional DNA, and 1 of these mutations is known to be associated with reduced expressivity. The presence of a constitutional mutation was not associated with an early age at treatment. In 1 patient, somatic mosaicism was demonstrated by molecular analysis of DNA and RNA from peripheral blood. In 2 patients without a detectable mutation in peripheral blood, mosaicism was suggested because 1 of the patients showed multifocal tumors and the other later developed bilateral retinoblastoma. In conclusion, our results emphasize that the manifestation and transmissibility of retinoblastoma depend on the nature of the first mutation, its time in development, and the number and types of cells that are affected.. 
@@ -146,7 +136,8 @@
 9931324|a|Mutations of the human PAX6 gene underlie aniridia (congenital absence of the iris), a rare dominant malformation of the eye. The spectrum of PAX6 mutations in aniridia patients is highly biased, with 92% of all reported mutations leading to premature truncation of the protein (nonsense, splicing, insertions and deletions) and just 2% leading to substitution of one amino acid by another (missense). The extraordinary conservation of the PAX6 protein at the amino acid level amongst vertebrates predicts that pathological missense mutations should in fact be common even though they are hardly ever seen in aniridia patients. This indicates that there is a heavy ascertainment bias in the selection of patients for PAX6 mutation analysis and that the missing PAX6 missense mutations frequently may underlie phenotypes distinct from textbook aniridia. Here we present four novel PAX6 missense mutations, two in association with atypical phenotypes  ectopia pupillae (displaced pupils) and congenital nystagmus (searching gaze), and two in association with more recognizable aniridia phenotypes. Strikingly, all four mutations are located within the PAX6 paired domain and affect amino acids which are highly conserved in all known paired domain proteins. Our results support the hypothesis that the under-representation of missense mutations is caused by ascertainment bias and suggest that a substantial burden of PAX6 -related disease remains to be uncovered.. 
 9931324	congenital eye malformations	MESH:D005124
 9931324	aniridia	MESH:D015783
-9931324	congenital	MESH:D000013
+9931324	iris	MESH:D007499
+9931324	dominant	OMIM:146700 MESH:D016112
 9931324	eye	MESH:D005124
 9931324	aniridia	MESH:D015783
 9931324	aniridia	MESH:D015783
@@ -173,16 +164,20 @@
 9463314	leukemia	MESH:D007938
 9463314	lymphoma	MESH:D008223
 9463314	breast cancer	MESH:D001943
-9463314	ataxia	MESH:D001259
-9463314	isles	MESH:D002544
+9463314	ataxia - telangiectasia	MESH:D001260
+9463314	a - t	MESH:D001260
 9463314	isles	MESH:D002544
 9463314	cerebellar degeneration	MESH:D013132
 9463314	breast cancer	MESH:D001943
+9463314	a - t	MESH:D001260
 9463314	cerebellar degeneration	MESH:D013132
-9463314	at	-
+9463314	a - t	MESH:D001260
+9463314	a - t	MESH:D001260
 9463314	leukemia	MESH:D007938
 9463314	lymphoma	MESH:D008223
-9463314	hodgkin	MESH:D006689
+9463314	preleukemic	MESH:D011289
+9463314	hodgkin lymphoma	MESH:D006689
+9463314	a - t	MESH:D001260
 
 9391879|t|Low frequency of BRCA1 germline mutations in 45 German breast/ovarian cancer families.
 9391879|a|In this study we investigated 45 German breast/ovarian cancer families for germline mutations in the BRCA1 gene. We identified four germline mutations in three breast cancer families and in one breast-ovarian cancer family. among these were one frameshift mutation, one nonsense mutation, one novel splice site mutation, and one missense mutation. The missense mutation was also found in 2. 8% of the general population, suggesting that it is not disease associated. The average age of disease onset in those families harbouring causative mutations was between 32. 3 and 37. 4 years, whereas the family harbouring the missense mutation had an average age of onset of 51. 2 years. These findings show that BRCA1 is implicated in a small fraction of breast/ovarian cancer families suggesting the involvement of another susceptibility gene (s) 
@@ -197,7 +192,7 @@
 9700175	hereditary ovarian cancer	MESH:D061325
 9700175	hereditary ovarian cancer	MESH:D061325
 9700175	ovarian cancer	MESH:D010051
-9700175	ovarian	MESH:D010049
+9700175	forms of ovarian cancer	MESH:D010051
 9700175	hereditary ovarian cancer	MESH:D061325
 9700175	ovarian cancer	MESH:D010051
 9700175	ovarian cancer	MESH:D010051
@@ -205,25 +200,30 @@
 
 9792861|t|Founder BRCA1 and BRCA2 mutations in French Canadian breast and ovarian cancer families.
 9792861|a|We have identified four mutations in each of the breast cancer-susceptibility genes, BRCA1 and BRCA2, in French Canadian breast cancer and breast/ovarian cancer families from Quebec. To identify founder effects, we examined independently ascertained French Canadian cancer families for the distribution of these eight mutations. Mutations were found in 41 of 97 families. Six of eight mutations were observed at least twice. The BRCA1 C4446T mutation was the most common mutation found, followed by the BRCA2 8765delAG mutation. Together, these mutations were found in 28 of 41 families identified to have a mutation. The odds of detection of any of the four BRCA1 mutations was 18. 7x greater if one or more cases of ovarian cancer were also present in the family. The odds of detection of any of the four BRCA2 mutations was 5. 3x greater if there were at least five cases of breast cancer in the family. Interestingly, the presence of a breast cancer case < 36 years of age was strongly predictive of the presence of any of the eight mutations screened. Carriers of the same mutation, from different families, shared similar haplotypes, indicating that the mutant alleles were likely to be identical by descent for a mutation in the founder population. The identification of common BRCA1 and BRCA2 mutations will facilitate carrier detection in French Canadian breast cancer and breast/ovarian cancer families.
+9792861	canadian	MESH:C537004 OMIM:220111
 9792861	breast and ovarian cancer	MESH:D010051
 9792861	breast cancer	MESH:D001943
+9792861	canadian	MESH:C537004 OMIM:220111
 9792861	breast cancer	MESH:D001943
 9792861	breast / ovarian cancer	MESH:D010051
 9792861	cancer	MESH:D009369
 9792861	ovarian cancer	MESH:D010051
 9792861	breast cancer	MESH:D001943
-9792861	breast cancer breast cancer	MESH:D001943
+9792861	breast cancer	MESH:D001943
+9792861	breast cancer	MESH:D001943
 9792861	breast / ovarian cancer	MESH:D010051
 
 9705283|t|Truncation mutations in the transactivation region of PAX6 result in dominant-negative mutants.
 9705283|a|PAX6 is a transcription factor with two DNA-binding domains (paired box and homeobox) and a proline-serine-threonine (PST) -rich transactivation domain. PAX6 regulates eye development in animals ranging from jellyfish to Drosophila to humans. Heterozygous mutations in the human PAX6 gene result in various phenotypes, including aniridia, Peters anomaly, autosomal dominant keratitis, and familial foveal dysplasia. It is believed that the mutated allele of PAX6 produces an inactive protein and aniridia is caused due to genetic haploinsufficiency. However, several truncation mutations have been found to occur in the C-terminal half of PAX6 in patients with Aniridia resulting in mutant proteins that retain the DNA-binding domains but have lost most of the transactivation domain. It is not clear whether such mutants really behave as loss-of-function mutants as predicted by haploinsufficiency. Contrary to this theory, our data showed that these mutants are dominant-negative in transient transfection assays when they are coexpressed with wild-type PAX6. We found that the dominant-negative effects result from the enhanced DNA binding ability of these mutants. Kinetic studies of binding and dissociation revealed that various truncation mutants have 3-5-fold higher affinity to various DNA-binding sites when compared with the wild-type PAX6. These results provide a new insight into the role of mutant PAX6 in causing aniridia.. 
+9705283	drosophila	BERN:CUI-less
 9705283	aniridia	MESH:D015783
 9705283	peters anomaly	MESH:C537884
-9705283	autosomal	MESH:D030342
-9705283	familial	MESH:D009394
+9705283	keratitis	MESH:D007634
+9705283	dysplasia	MESH:D004476
 9705283	aniridia	MESH:D015783
 9705283	genetic haploinsufficiency	MESH:D030342
 9705283	aniridia	MESH:D015783
+9705283	haploinsufficiency	MESH:D058495
 9705283	aniridia	MESH:D015783
 
 9546397|t|Crystal structure of the hemochromatosis protein HFE and characterization of its interaction with transferrin receptor.
@@ -237,7 +237,7 @@
 9774970|a|BRCA1 and BRCA2 account for most cases of familial, early onset breast and/or ovarian cancer and encode products that each interact with hRAD51. Results presented here show that BRCA1 and BRCA2 coexist in a biochemical complex and colocalize in subnuclear foci in somatic cells and on the axial elements of developing synaptonemal complexes. Like BRCA1 and RAD51, BRCA2 relocates to PCNA + replication sites following exposure of S phase cells to hydroxyurea or UV irradiation. Thus, BRCA1 and BRCA2 participate, together, in a pathway (s) associated with the activation of double-strand break repair and/or homologous recombination. Dysfunction of this pathway may be a general phenomenon in the majority of cases of hereditary breast and/or ovarian cancer.. 
 9774970	tumor	MESH:D009369
 9774970	breast and / or ovarian cancer	MESH:D010051
-9774970	hereditary	MESH:D030342
+9774970	breast and / or ovarian cancer	MESH:D010051
 
 9790667|t|A novel Arg362Ser mutation in the sterol 27-hydroxylase gene (CYP27): its effects on pre-mRNA splicing and enzyme activity.
 9790667|a|A novel C to A mutation in the sterol 27-hydroxylase gene (CYP27) was identified by sequencing amplified CYP27 gene products from a patient with cerebrotendinous xanthomatosis (CTX). The mutation changed the adrenodoxin cofactor binding residue 362Arg to 362Ser (CGT 362Arg to AGT 362Ser), and was responsible for deficiency in the sterol 27-hydroxylase activity, as confirmed by expression of mutant cDNA into COS-1 cells. Quantitative analysis showed that the expression of CYP27 gene mRNA in the patient represented 52. 5% of the normal level. As the mutation occurred at the penultimate nucleotide of exon 6 (-2 position of exon 6-intron 6 splice site) of the gene, we hypothesized that the mutation may partially affect the normal splicing efficiency in exon 6 and cause alternative splicing elsewhere, which resulted in decreased transcript in the patient. Transfection of constructed minigenes, with or without the mutation, into COS-1 cells confirmed that the mutant minigene was responsible for a mRNA species alternatively spliced at an activated cryptic 5 splice site 88 bp upstream from the 3 end of exon 6. Our data suggest that the C to A mutation at the penultimate nucleotide of exon 6 of the CYP27 gene not only causes the deficiency in the sterol 27-hydroxylase activity, but also partially leads to alternative pre-mRNA splicing of the gene. To our knowledge, this is the first report regarding effects on pre-mRNA splicing of a mutation at the -2 position of a 5 splice site. 
@@ -245,14 +245,15 @@
 
 9702690|t|A Japanese family with adrenoleukodystrophy with a codon 291 deletion: a clinical, biochemical, pathological, and genetic report.
 9702690|a|We report a Japanese family with adrenoleukodystrophy (ALD) with a three base pair deletion (delGAG 291) in the ALD gene. A variety of phenotypes were observed within this family. While the proband (patient 1) was classified as having a rare intermediate type of adult cerebral and cerebello-brain stem forms, his younger brother (patient 2) and nephew (patient 3) had a childhood ALD type. Another nephew (patient 4) of patient 1 was classified as having an adolescent form. The tau level in the cerebrospinal fluid (CSF) in patient 1 was as high as that of patients with Alzheimers disease (AD). His brain magnetic resonance image (MRI) showed abnormalities in the bilateral cerebellar hemispheres and brain stem, but not in the cerebral white matter, where marked reductions of the cerebral blood flow and oxygen metabolism were clearly demonstrated by positron emission tomography (PET). In patients 2 and 3, the autopsy findings showed massive demyelination of the cerebral white matter with sparing of the U-fibers, compatible with the findings of childhood ALD. Oleic and erucic acids (Lorenzos Oil) were administered to patients 1 and 4, but sufficient effectiveness was not obtained. The findings in this family suggest that delGAG291 is part of the cause of Japanese ALD with phenotypic variations. Moreover, although the scale of the study is limited, there is a possibility that PET can detect an insidious lesion which is undetectable by computed tomogram (CT) or MRI analysis, and that the higher level of tau reflects the process of neuronal degeneration in ALD. Lorenzos Oil should be given in the early stage.. 
+9702690	japanese	BERN:261072301
 9702690	adrenoleukodystrophy	MESH:D000326
+9702690	japanese	BERN:261072301
 9702690	adrenoleukodystrophy	MESH:D000326
-9702690	ald	MESH:D000326
 9702690	alzheimers disease	MESH:D000544
 9702690	alzheimers disease	MESH:D000544
-9702690	demyelination	MESH:D003711
+9702690	cerebral white matter	MESH:D056784
 9702690	ald	MESH:D000326
-9702690	neuronal degeneration	MESH:D009410
+9702690	ald	MESH:D000326
 
 9618166|t|Two frequent missense mutations in Pendred syndrome.
 9618166|a|Pendred syndrome is an autosomal recessive disorder characterized by early childhood deafness and goiter. A century after its recognition as a syndrome by Vaughan Pendred, the disease gene (PDS) was mapped to chromosome 7q22-q31. 1 and, recently, found to encode a putative sulfate transporter. We performed mutation analysis of the PDS gene in patients from 14 Pendred families originating from seven countries and identified all mutations. The mutations include three single base deletions, one splice site mutation and 10 missense mutations. One missense mutation (L236P) was found in a homozygous state in two consanguineous families and in a heterozygous state in five additional non-consanguineous families. Another missense mutation (T416P) was found in a homozygous state in one family and in a heterozygous state in four families. Pendred patients in three non-consanguineous families were shown to be compound heterozygotes for L236P and T416P. In total, one or both of these mutations were found in nine of the 14 families analyzed. The identification of two frequent PDS mutations will facilitate the molecular diagnosis of Pendred syndrome. 
@@ -266,8 +267,12 @@
 
 9427148|t|Aspartylglucosaminuria among Palestinian Arabs.
 9427148|a|Aspartylglucosaminuria (AGU) is a rare disorder of glycoprotein metabolism caused by the deficiency of the lysosomal enzyme aspartylglucosaminidase (AGA). AGU is inherited as an autosomal recessive trait and occurs with a high frequency in Finland because of a founder effect. While very few patients with AGU have been reported from non-Finnish origin, we diagnosed the disorder in 8 patients originating from 3 unrelated families, all Palestinian Arabs from the region of Jerusalem. The clinical diagnosis of AGU is often difficult, in particular early in the course of the disease, and most of the patients are diagnosed after the age of 5 years. However, since these patients excrete early large amounts of aspartylglucosamine in urine, biochemical screening is easy by urine chromatography.. 
-9427148	disorder	MESH:D030342
+9427148	aspartylglucosaminuria	MESH:D054880
+9427148	aspartylglucosaminuria	MESH:D054880
+9427148	agu	MESH:D054880
 9427148	deficiency	MESH:D007153
+9427148	agu	MESH:D054880
+9427148	agu	MESH:D054880
 
 9467011|t|Mutation spectrum and genotype-phenotype analyses in Cowden disease and Bannayan-Zonana syndrome, two hamartoma syndromes with germline PTEN mutation.
 9467011|a|The tumour suppressor gene PTEN, which maps to 10q23. 3 and encodes a 403 amino acid dual specificity phosphatase (protein tyrosine phosphatase; PTPase), was shown recently to play a broad role in human malignancy. Somatic PTEN deletions and mutations were observed in sporadic breast, brain, prostate and kidney cancer cell lines and in several primary tumours such as endometrial carcinomas, malignant melanoma and thyroid tumours. In addition, PTEN was identified as the susceptibility gene for two hamartoma syndromes  Cowden disease (CD; MIM 158350) and Bannayan-Zonana (BZS) or Ruvalcaba-Riley-Smith syndrome (MIM 153480). Constitutive DNA from 37 CD families and seven BZS families was screened for germline PTEN mutations. PTEN mutations were identified in 30 of 37 (81%) CD families, including missense and nonsense point mutations, deletions, insertions, a deletion/insertion and splice site mutations. These mutations were scattered over the entire length of PTEN, with the exception of the first, fourth and last exons. A hot spot for PTEN mutation in CD was identified in exon 5 that contains the PTPase core motif, with 13 of 30 (43%) CD mutations identified in this exon. Seven of 30 (23%) were within the core motif, the majority (five of seven) of which were missense mutations, possibly pointing to the functional significance of this region. Germline PTEN mutations were identified in four of seven (57%) BZS families studied. Interestingly, none of these mutations was observed in the PTPase core motif. It is also worthy of note that a single nonsense point mutation, R233X, was observed in the germline DNA from two unrelated CD families and one BZS family. Genotype-phenotype studies were not performed on this small group of BZS families. However, genotype-phenotype analysis inthe group of CD families revealed two possible associations worthy of follow-up in independent analyses. The first was an association noted in the group of CD families with breast disease. A correlation was observed between the presence/absence of a PTEN mutation and the type of breast involvement (unaffected versus benign versus malignant). Specifically and more directly, an association was also observed between the presence of a PTEN mutation and malignant breast disease. Secondly, there appeared to be an interdependent association between mutations upstream and within the PTPase core motif, the core motif containing the majority of missense mutations, and the involvement of all major organ systems (central nervous system, thyroid, breast, skin and gastrointestinal tract). However, these observations would need to be confirmed by studying a larger number of CD families. 
@@ -276,8 +281,9 @@
 9467011	hamartoma syndromes	MESH:D006222
 9467011	tumour	MESH:D009369
 9467011	malignancy	MESH:D009369
+9467011	sporadic	BERN:259647101
 9467011	prostate and kidney cancer	MESH:D011471
-9467011	primary tumours	MESH:D009369
+9467011	tumours	MESH:D009369
 9467011	endometrial carcinomas	MESH:D016889
 9467011	malignant melanoma	MESH:D008545
 9467011	thyroid tumours	MESH:D013964
@@ -298,7 +304,7 @@
 9467011	bannayan - zonana syndrome	MESH:D006223
 9467011	cowden disease	MESH:D006223
 9467011	cowden disease	MESH:D006223
-9467011	breast	MESH:D061325
+9467011	breast disease	MESH:D001941
 9467011	malignant breast disease	MESH:D001943
 9467011	cowden disease	MESH:D006223
 
@@ -344,7 +350,7 @@
 9792860	autosomal recessive alport syndrome	MESH:C536587
 9792860	autosomal recessive alport syndrome	MESH:C536587
 9792860	glomerulonephritis	MESH:D005921
-9792860	glomerular	MESH:D007674
+9792860	membrane abnormalities	MESH:D002386
 9792860	autosomal recessive alport syndrome	MESH:C536587
 
 9771706|t|A gene encoding a transmembrane protein is mutated in patients with diabetes mellitus and optic atrophy (Wolfram syndrome).
@@ -353,10 +359,9 @@
 9771706	optic atrophy	MESH:D009896
 9771706	wolfram syndrome	MESH:D014929
 9771706	wolfram syndrome	MESH:D014929
-9771706	autosomal	MESH:D030342
-9771706	insulin - dependent diabetes mellitus	MESH:D003922
+9771706	neurodegenerative disorder	MESH:D019636
+9771706	non - immune insulin - dependent diabetes mellitus	BERN:260824201
 9771706	optic atrophy	MESH:D009896
-9771706	wfs	OMIM:222300 MESH:D014929
 
 9472666|t|Molecular defects leading to human complement component C6 deficiency in an African-American family.
 9472666|a|Complement component C6 deficiency (C6D) was diagnosed in a 16-year-old African-American male with meningococcal meningitis. The patients father and two brothers also had C6D, but gave no history of meningitis or other neisserial infection. By using exon-specific polymerase chain reaction (PCR)/single-strand conformation polymorphism as a screening step and nucleotide sequencing of target exons, we determined that the proband was a compound heterozygote for two C6 gene mutations. The first, 1195delC located in exon 7, is a novel mutation, while the second, 1936delG in exon 12, has been described before to cause C6D in an unrelated African-American individual. Both mutations result in premature termination codons and C6 null alleles. Allele-specific PCR indicated that the probands two brothers also inherited the 1195delC mutation from their heterozygous mother and the 1936delG mutation from their homozygous father.. 
@@ -369,7 +374,6 @@
 9472666	neisserial infection	MESH:D016870
 9472666	neisserial infection	MESH:D016870
 9472666	neisserial infection	MESH:D016870
-9472666	c6d	MESH:C537465 OMIM:300166
 9472666	neisserial infection	MESH:D016870
 9472666	neisserial infection	MESH:D016870
 
@@ -380,66 +384,50 @@
 
 9506545|t|Eye movement abnormalities correlate with genotype in autosomal dominant cerebellar ataxia type I.
 9506545|a|We compared horizontal eye movements (visually guided saccades, antisaccades, and smooth pursuit) in control subjects (n = 14) and patients with three forms of autosomal dominant cerebellar ataxias type I spinocerebellar ataxias 1 and 2 (SCA1, n = 11; SCA2, n = 10) and SCA3/Machado-Joseph disease (MJD) (n = 16). In SCA1, saccade amplitude was significantly increased, resulting in hypermetria. The smooth pursuit gain was decreased. In SCA2, saccade velocity was markedly decreased. The percentage of errors in antisaccades was greatly increased and was significantly correlated with age at disease onset. In addition, a correlation between smooth pursuit gain and the number of trinucleotide repeats was found. In SCA3, gaze-evoked nystagmus was often present as was saccade hypometria and smooth pursuit gain was markedly decreased. Three major criteria, saccade amplitude, saccade velocity, and presence of gaze-evoked nystagmus, permitted the correct assignment of 90% of the SCA1, 90% of the SCA2, and 93% of the patients with SCA3 to their genetically confirmed patient group and, therefore, may help orient diagnoses of SCA1, SCA2, and SCA3 at early clinical stages of the diseases.. 
-9506545	eye movement abnormalities	MESH:D020820
-9506545	autosomal dominant cerebellar ataxia type i	MESH:D017827
-9506545	autosomal	MESH:D030342
+9506545	type i	MESH:D017827
+9506545	type i	MESH:D017827
 9506545	spinocerebellar ataxias	MESH:D020754
-9506545	sca3	MESH:D017827
 9506545	machado - joseph disease	MESH:D017827
 9506545	machado - joseph disease	MESH:D017827
 9506545	hypermetria	MESH:D002524
 9506545	nystagmus	MESH:D009759
 9506545	saccade hypometria	OMIM:257550 MESH:C537423
 9506545	nystagmus	MESH:D009759
-9506545	sca3	MESH:D017827
 
 9288106|t|Clustering of missense mutations in the ataxia-telangiectasia gene in a sporadic T-cell leukaemia.
 9288106|a|Ataxia-telangiectasia (A-T) is a recessive multi-system disorder caused by mutations in the ATM gene at 11q22-q23 (ref. 3). The risk of cancer, especially lymphoid neoplasias, is substantially elevated in A-T patients and has long been associated with chromosomal instability. By analysing tumour DNA from patients with sporadic T-cell prolymphocytic leukaemia (T-PLL), a rare clonal malignancy with similarities to a mature T-cell leukaemia seen in A-T, we demonstrate a high frequency of ATM mutations in T-PLL. In marked contrast to the ATM mutation pattern in A-T, the most frequent nucleotide changes in this leukaemia were missense mutations. These clustered in the region corresponding to the kinase domain, which is highly conserved in ATM-related proteins in mouse, yeast and Drosophila. The resulting amino-acid substitutions are predicted to interfere with ATP binding or substrate recognition. Two of seventeen mutated T-PLL samples had a previously reported A-T allele. In contrast, no mutations were detected in the p53 gene, suggesting that this tumour suppressor is not frequently altered in this leukaemia. Occasional missense mutations in ATM were also found in tumour DNA from patients with B-cell non-Hodgkins lymphomas (B-NHL) and a B-NHL cell line. The evidence of a significant proportion of loss-of-function mutations and a complete absence of the normal copy of ATM in the majority of mutated tumours establishes somatic inactivation of this gene in the pathogenesis of sporadic T-PLL and suggests that ATM acts as a tumour suppressor. As constitutional DNA was not available, a putative hereditary predisposition to T-PLL will require further investigation.. 
 9288106	ataxia - telangiectasia	MESH:D001260
-9288106	sporadic	BERN:259647101
 9288106	t - cell leukaemia	MESH:D015458
-9288106	-	BERN:CUI-less
-9288106	- t	BERN:255182001
-9288106	multi - system disorder	MESH:D015140
 9288106	ataxia - telangiectasia	MESH:D001260
+9288106	a - t	MESH:D001260
+9288106	multi - system disorder	MESH:D015140
+9288106	a - t	MESH:D001260
 9288106	cancer	MESH:D009369
-9288106	lymphoid	MESH:D008223
-9288106	-	BERN:CUI-less
-9288106	- t	BERN:255182001
+9288106	neoplasias	MESH:D009369
+9288106	a - t	MESH:D001260
 9288106	tumour	MESH:D009369
-9288106	sporadic	BERN:259647101
 9288106	t - cell prolymphocytic leukaemia	MESH:D015461
-9288106	t - pll	BERN:255182001
-9288106	malignancy	MESH:D009369
 9288106	t - cell leukaemia	MESH:D015458
-9288106	- t	BERN:255182001
-9288106	- t	BERN:255182001
-9288106	- t	BERN:255182001
+9288106	a - t	MESH:D001260
 9288106	leukaemia	MESH:D007938
-9288106	- t	BERN:255182001
-9288106	- t	BERN:255182001
 9288106	tumour	MESH:D009369
 9288106	leukaemia	MESH:D007938
 9288106	tumour	MESH:D009369
-9288106	cell	OMIM:252500
-9288106	non - hodgkins lymphomas	MESH:D008228
-9288106	non - hodgkins lymphomas	MESH:D008228
 9288106	non - hodgkins lymphomas	MESH:D008228
 9288106	tumours	MESH:D009369
-9288106	t - pll	BERN:255182001
+9288106	sporadic t - pll	BERN:255795601
 9288106	tumour	MESH:D009369
-9288106	constitutional dna	BERN:256747301
 9288106	t - pll	BERN:255182001
 
 9580132|t|Identification of a novel nonsense mutation and a missense substitution in the vasopressin-neurophysin II gene in two Spanish kindreds with familial neurohypophyseal diabetes insipidus.
 9580132|a|Familial neurohypophyseal diabetes insipidus (FNDI) is an autosomal dominant disease caused by deficiency in the antidiuretic hormone arginine vasopressin (AVP) encoded by the AVP-neurophysin II (AVP-NPII) gene on chromosome 20p13. In this study, we analyzed two families with FNDI using direct automated fluorescent, solid phase, single-stranded DNA sequencing of PCR-amplified AVP-NPII DNA. In one of the families, affected individuals presented a novel nonsense mutation in exon 3 of the gene, consisting in a G to T transition at nucleotide 2101, which produces a stop signal in codon 82 (Glu) of NPII. The premature termination eliminates part of the C-terminal domain of NPII, including a cysteine residue in position 85, which could be involved in the correct folding of the prohormone. In the second family, a G279A substitution at position -1 of the signal peptide was observed in all affected individuals. This missense mutation, which replaces Ala with Thr, is frequent among FNDI patients and is thought to reduce the efficiency of cleavage by signal peptidases.. 
-9580132	familial	MESH:D009394
-9580132	familial	MESH:D009394
-9580132	familial	MESH:D009394
+9580132	diabetes insipidus	MESH:D003919
+9580132	diabetes insipidus	MESH:D003919
+9580132	diabetes insipidus	MESH:D003919
 9580132	autosomal dominant disease	MESH:D030342
 9580132	deficiency	MESH:D007153
-9580132	familial	MESH:D009394
-9580132	familial	MESH:D009394
+9580132	diabetes insipidus	MESH:D003919
+9580132	diabetes insipidus	MESH:D003919
 
 9714764|t|Cloning of a novel member of the low-density lipoprotein receptor family.
 9714764|a|A gene encoding a novel transmembrane protein was identified by DNA sequence analysis within the insulin-dependent diabetes mellitus (IDDM) locus IDDM4 on chromosome 11q13. Based on its chromosomal position, this gene is a candidate for conferring susceptibility to diabetes. The gene, termed low-density lipoprotein receptor related protein 5 (LRP5), encodes a protein of 1615 amino acids that contains conserved modules which are characteristic of the low-density lipoprotein (LDL) receptor family. These modules include a putative signal peptide for protein export, four epidermal growth factor (EGF) repeats with associated spacer domains, three LDL-receptor (LDLR) repeats, a single transmembrane spanning domain, and a cytoplasmic domain. The encoded protein has a unique organization of EGF and LDLR repeats; therefore, LRP5 likely represents a new category of the LDLR family. Both human and mouse LRP5 cDNAs have been isolated and the encoded mature proteins are 95% identical, indicating a high degree of evolutionary conservation.. 
@@ -452,12 +440,16 @@
 9792409	ataxia - telangiectasia	MESH:D001260
 9792409	autosomal recessive disorder	MESH:D030342
 9792409	ataxia - telangiectasia	MESH:D001260
-9792409	- t - t - t t	BERN:255182001
+9792409	a - t	MESH:D001260
+9792409	a - t	MESH:D001260
+9792409	a - t	MESH:D001260
+9792409	a - t	MESH:D001260
 
 9867744|t|Diagnosis of hemochromatosis.
 9867744|a|If untreated, hemochromatosis can cause serious illness and early death, but the disease is still substantially under-diagnosed. The cornerstone of screening and case detection is the measurement of serum transferrin saturation and the serum ferritin level. Once the diagnosis is suspected, physicians must use serum ferritin levels and hepatic iron stores on liver biopsy specimens to assess patients for the presence of iron overload. Liver biopsy is also used to establish the presence or absence of cirrhosis, which can affect prognosis and management. A DNA-based test for the HFE gene is commercially available, but its place in the diagnosis of hemochromatosis is still being evaluated. Currently, the most useful role for this test is in the detection of hemochromatosis in the family members of patients with a proven case of the disease. It is crucial to diagnose hemochromatosis before hepatic cirrhosis develops because phlebotomy therapy can avert serious chronic disease and can even lead to normal life expectancy.. 
 9867744	hemochromatosis	MESH:D006432
 9867744	hemochromatosis	MESH:D006432
+9867744	iron overload	MESH:D006432 OMIM:235200
 9867744	cirrhosis	MESH:D005355
 9867744	hemochromatosis	MESH:D006432
 9867744	hemochromatosis	MESH:D006432
@@ -469,7 +461,7 @@
 9482572	aniridia	MESH:D015783
 9482572	peters anomaly	MESH:C537884
 9482572	congenital cataracts	MESH:D002386
-9482572	autosomal	MESH:D030342
+9482572	keratitis	MESH:D007634
 9482572	isolated foveal hypoplasia	MESH:C565005
 9482572	aniridia	MESH:D015783
 
@@ -481,14 +473,15 @@
 9674906	schwartz - jampel syndrome	MESH:D010009
 9674906	myotonia	MESH:D009222
 9674906	skeletal dysplasia	MESH:C535858
-9674906	sjs	MESH:D010009
+9674906	type 2	MESH:D016532
 9674906	wiedemann syndrome	MESH:C537680
 9674906	wiedemann syndrome	MESH:C537680
 9674906	campomelia	BERN:267411001
 9674906	skeletal dysplasia	MESH:C535858
 9674906	contractures	MESH:D003286
-9674906	sjs	MESH:D010009
+9674906	type 2	MESH:D016532
 9674906	wiedemann syndrome	MESH:C537680
+9674906	neonatal	OMIM:202370
 9674906	schwartz - jampel syndrome	MESH:D010009
 9674906	wiedemann syndrome	MESH:C537680
 9674906	neuromuscular disorder	MESH:D009468
@@ -496,10 +489,10 @@
 9674906	hyperthermia	MESH:D005334
 9674906	skeletal dysplasia	MESH:C535858
 9674906	bone dysplasia	MESH:D001848
-9674906	sjs	MESH:D010009
+9674906	type 2	MESH:D016532
 9674906	wiedemann syndrome	MESH:C537680
 9674906	wiedemann syndrome	MESH:C537680
-9674906	sjs	MESH:D010009
+9674906	type 2	MESH:D016532
 
 9536083|t|The 185delAG BRCA1 mutation originated before the dispersion of Jews in the diaspora and is not limited to Ashkenazim.
 9536083|a|The 185delAG mutation in BRCA1 is detected in Ashkenazi Jews both in familial breast and ovarian cancer and in the general population. All tested Ashkenazi mutation carriers share the same allelic pattern at the BRCA1 locus. Our previous study showed that this Ashkenazi mutation also occurs in Iraqi Jews with a similar allelic pattern. We extended our analysis to other non-Ashkenazi subsets  354 of Moroccan origin, 200 Yemenites and 150 Iranian Jews. Heteroduplex analysis complemented by direct DNA sequencing of abnormally migrating bands were employed. Four of Moroccan origin (1. 1%) and none of the Yemenites or Iranians was a carrier of the 185delAG mutation. BRCA1 allelic patterns were determined for four of these individuals and for 12 additional non-Ashkenazi 185delAG mutation carriers who had breast/ovarian cancer. Six non-Ashkenazi individuals shared the common Ashkenazi haplotype, four had a closely related pattern, and the rest (n = 6) displayed a distinct BRCA1 allelic pattern. We conclude that the 185delAG BRCA1 mutation occurs in some non-Ashkenazi populations at rates comparable with that of Ashkenazim. The majority of Jewish 185delAG mutation carriers have a common allelic pattern, supporting the founder effect notion, but dating the mutations origin to an earlier date than currently estimated. However, the different allelic pattern at the BRCA1 locus even in some Jewish mutation carriers, might suggest that the mutation arose independently.. 
@@ -511,7 +504,7 @@
 9400934	retinoblastoma	MESH:D012175
 9400934	retinoblastoma	MESH:D012175
 9400934	tumours	MESH:D009369
-9400934	retinal	MESH:D012173
+9400934	pineal tumours	MESH:D010871
 9400934	retinoblastoma	MESH:D012175
 
 9729124|t|Genomic structure of the human congenital chloride diarrhea (CLD) gene.
@@ -519,6 +512,7 @@
 9729124	congenital chloride diarrhea	MESH:C536210
 9729124	congenital chloride diarrhea	MESH:C536210
 9729124	cld	BERN:267406101
+9729124	finnish cld	BERN:267406101
 9729124	pendred syndrome	MESH:C536648
 
 9585605|t|Mutation analysis of UBE3A in Angelman syndrome patients.
@@ -538,7 +532,7 @@
 9360520	autosomal dominant neurohypophyseal diabetes insipidus	MESH:D020790
 9360520	autosomal dominant neurohypophyseal diabetes insipidus	MESH:D020790
 9360520	inherited disease	MESH:D030342
-9360520	degeneration	MESH:D012162
+9360520	progressive degeneration	MESH:C538363
 9360520	diabetes insipidus	MESH:D003919
 9360520	autosomal dominant neurohypophyseal diabetes insipidus	MESH:D020790
 9360520	neurodegeneration	MESH:D019636
@@ -546,8 +540,9 @@
 9709714|t|Reversal of severe hypertrophic cardiomyopathy and excellent neuropsychologic outcome in very-long-chain acyl-coenzyme A dehydrogenase deficiency.
 9709714|a|Very-long-chain acyl-coenzyme A dehydrogenase (VLCAD) deficiency is a disorder of fatty acid beta oxidation that reportedly has high rates of morbidity and mortality. We describe the outcome of a 5-year-old girl with VLCAD deficiency who was first seen at 5 months of age with severe hypertrophic cardiomyopathy, hepatomegaly, encephalopathy, and hypotonia. Biochemical studies indicated VLCAD deficiency caused by a stable yet inactive enzyme. Molecular genetic analysis of her VLCAD gene revealed a T1372C (F458L) missense mutation and a 1668 ACAG 1669 splice site mutation. After initial treatment with intravenous glucose and carnitine, the patient has thrived on a low-fat diet supplemented with medium-chain triglyceride oil and carnitine and avoidance of fasting. Her ventricular hypertrophy resolved significantly over 1 year, and cognitively, she is in the superior range for age. Clinical recognition of VLCAD deficiency is important because it is one of the few directly treatable causes of cardiomyopathy in children.. 
 9709714	hypertrophic cardiomyopathy	MESH:D002312
-9709714	dehydrogenase deficiency	MESH:D005955
+9709714	coenzyme a dehydrogenase deficiency	MESH:D054069
 9709714	deficiency	MESH:D007153
+9709714	a disorder	MESH:D030342
 9709714	vlcad deficiency	MESH:C536353
 9709714	hypertrophic cardiomyopathy	MESH:D002312
 9709714	hepatomegaly	MESH:D006529
@@ -561,17 +556,12 @@
 9600235|t|Mutations of the ATM gene detected in Japanese ataxia-telangiectasia patients: possible preponderance of the two founder mutations 4612del165 and 7883del5.
 9600235|a|The ATM (A-T, mutated) gene on human chromosome 11q22. 3 has recently been identified as the gene responsible for the human recessive disease ataxia-telangiectasia (A-T). In order to define the types of disease-causing ATM mutations in Japanese A-T patients as well as to look for possible mutational hotspots, reverse-transcribed RNA derived from ten patients belonging to eight unrelated Japanese A-T families was analyzed for mutations by the restriction endonuclease fingerprinting method. As has been reported by others, mutations that lead to exon skipping or premature protein truncation were also predominant in our mutants. Six different mutations were identified on 12 of the 16 alleles examined. Four were deletions involving a loss of a single exon  exon 7, exon 16, exon 33 or exon 35. The others were minute deletions, 4649delA in exon 33 and 7883del5 in exon 55. The mutations 4612del165 and 7883del5 were found in more than two unrelated families; 44% (7 of 16) of the mutant alleles had one of the two mutations. The 4612del165 mutations in three different families were all ascribed to the same T-- > A substitution at the splice donor site in intron 33. Microsatellite genotyping around the ATM locus also indicated that a common haplotype was shared by the mutant alleles in both mutations. This suggests that these two founder mutations may be predominant among Japanese ATM mutant alleles. 
 9600235	ataxia - telangiectasia	MESH:D001260
-9600235	- t	BERN:255182001
 9600235	recessive disease	MESH:D030342
 9600235	ataxia - telangiectasia	MESH:D001260
-9600235	-	BERN:CUI-less
-9600235	- t	BERN:255182001
-9600235	japanese -	BERN:261072301
-9600235	- t	BERN:255182001
-9600235	japanese -	BERN:261072301
-9600235	- t	BERN:255182001
-9600235	- t	BERN:255182001
-9600235	ataxia - telangiectasia	MESH:D001260
+9600235	a - t	MESH:D001260
+9600235	a - t	MESH:D001260
+9600235	a - t	MESH:D001260
+9600235	a - t	MESH:D001260
 
 9770531|t|Down-regulation of transmembrane carbonic anhydrases in renal cell carcinoma cell lines by wild-type von Hippel-Lindau transgenes.
 9770531|a|To discover genes involved in von Hippel-Lindau (VHL) -mediated carcinogenesis, we used renal cell carcinoma cell lines stably transfected with wild-type VHL-expressing transgenes. Large-scale RNA differential display technology applied to these cell lines identified several differentially expressed genes, including an alpha carbonic anhydrase gene, termed CA12. The deduced protein sequence was classified as a one-pass transmembrane CA possessing an apparently intact catalytic domain in the extracellular CA module. Reintroduced wild-type VHL strongly inhibited the overexpression of the CA12 gene in the parental renal cell carcinoma cell lines. Similar results were obtained with CA9, encoding another transmembrane CA with an intact catalytic domain. Although both domains of the VHL protein contribute to regulation of CA12 expression, the elongin binding domain alone could effectively regulate CA9 expression. We mapped CA12 and CA9 loci to chromosome bands 15q22 and 17q21. 2 respectively, regions prone to amplification in some human cancers. Additional experiments are needed to define the role of CA IX and CA XII enzymes in the regulation of pH in the extracellular microenvironment and its potential impact on cancer cell growth. 
@@ -594,17 +584,18 @@
 9385378	mps iva	MESH:D009085
 9385378	autosomal recessive lysosomal storage disorder	MESH:D016464
 9385378	genetic defect	MESH:D030342
+9385378	mps iva	MESH:D009085
 
 9603435|t|W474C amino acid substitution affects early processing of the alpha-subunit of beta-hexosaminidase A and is associated with subacute G(M2) gangliosidosis.
 9603435|a|Mutations in the HEXA gene, encoding the alpha-subunit of beta-hexosaminidase A (Hex A), that abolish Hex A enzyme activity cause Tay-Sachs disease (TSD), the fatal infantile form of G (M2) gangliosidosis, Type 1. Less severe, subacute (juvenile-onset) and chronic (adult-onset) variants are characterized by a broad spectrum of clinical manifestations and are associated with residual levels of Hex A enzyme activity. We identified a 1422 G-- > C (amino acid W474C) substitution in the first position of exon 13 of HEXA of a non-Jewish proband who manifested a subacute variant of G (M2) gangliosidosis. On the second maternally inherited allele, we identified the common infantile disease-causing 4-bp insertion, + TATC 1278, in exon 11. Pulse-chase analysis using proband fibroblasts revealed that the W474C-containing alpha-subunit precursor was normally synthesized, but not phosphorylated or secreted, and the mature lysosomal alpha-subunit was not detected. When the W474C-containing alpha-subunit was transiently co-expressed with the beta-subunit to produce Hex A (alphabeta) in COS-7 cells, the mature alpha-subunit was present, but its level was much lower than that from normal alpha-subunit transfections, although higher than in those cells transfected with an alpha-subunit associated with infantile TSD. Furthermore, the precursor level of the W474C alpha-subunit was found to accumulate in comparison to the normal alpha-subunit precursor levels. We conclude that the 1422 G-- > C mutation is the cause of Hex A enzyme deficiency in the proband. The resulting W474C substitution clearly interferes with alpha-subunit processing, but because the base substitution falls at the first position of exon 13, aberrant splicing may also contribute to Hex A deficiency in this proband.. 
-9603435	tay - sachs disease	MESH:D013661
-9603435	tay - sachs disease	MESH:D013661
-9603435	g gangliosidosis , type 1	OMIM:252650 MESH:D009081
 9603435	gangliosidosis	MESH:D005733
-9603435	infantile	BERN:257683101
+9603435	tay - sachs disease	MESH:D013661
+9603435	tay - sachs disease	MESH:D013661
+9603435	g ( m2 ) gangliosidosis , type 1	OMIM:252650 MESH:D009081
+9603435	gangliosidosis	MESH:D005733
 9603435	tay - sachs disease	MESH:D013661
 9603435	enzyme deficiency	MESH:D008661
-9603435	deficiency	MESH:D007153
+9603435	a deficiency	MESH:D007153
 
 9294109|t|Myotonic dystrophy protein kinase is involved in the modulation of the Ca2+ homeostasis in skeletal muscle cells.
 9294109|a|Myotonic dystrophy (DM), the most prevalent muscular disorder in adults, is caused by (CTG) n-repeat expansion in a gene encoding a protein kinase (DM protein kinase; DMPK) and involves changes in cytoarchitecture and ion homeostasis. To obtain clues to the normal biological role of DMPK in cellular ion homeostasis, we have compared the resting [Ca2 +] i, the amplitude and shape of depolarization-induced Ca2 + transients, and the content of ATP-driven ion pumps in cultured skeletal muscle cells of wild-type and DMPK [-/-] knockout mice. In vitro-differentiated DMPK [-/-] myotubes exhibit a higher resting [Ca2 +] i than do wild-type myotubes because of an altered open probability of voltage-dependent l-type Ca2 + and Na + channels. The mutant myotubes exhibit smaller and slower Ca2 + responses upon triggering by acetylcholine or high external K +. In addition, we observed that these Ca2 + transients partially result from an influx of extracellular Ca2 + through the l-type Ca2 + channel. Neither the content nor the activity of Na +/K + ATPase and sarcoplasmic reticulum Ca2 + -ATPase are affected by DMPK absence. In conclusion, our data suggest that DMPK is involved in modulating the initial events of excitation-contraction coupling in skeletal muscle.. 
@@ -631,12 +622,12 @@
 9618170	xldcm	BERN:267403901
 9618170	duchenne muscular dystrophy	MESH:D020388
 9618170	japanese	BERN:261072301
-9618170	xldcm	BERN:267403901
 
 9585583|t|Genetic heterogeneity of Saethre-Chotzen syndrome, due to TWIST and FGFR mutations.
 9585583|a|Thirty-two unrelated patients with features of Saethre-Chotzen syndrome, a common autosomal dominant condition of craniosynostosis and limb anomalies, were screened for mutations in TWIST, FGFR2, and FGFR3. Nine novel and three recurrent TWIST mutations were found in 12 families. Seven families were found to have the FGFR3 P250R mutation, and one individual was found to have an FGFR2 VV269-270 deletion. To date, our detection rate for TWIST or FGFR mutations is 68% in our Saethre-Chotzen syndrome patients, including our five patients elsewhere reported with TWIST mutations. More than 35 different TWIST mutations are now known in the literature. The most common phenotypic features, present in more than a third of our patients with TWIST mutations, are coronal synostosis, brachycephaly, low frontal hairline, facial asymmetry, ptosis, hypertelorism, broad great toes, and clinodactyly. Significant intra- and interfamilial phenotypic variability is present for either TWIST mutations or FGFR mutations. The overlap in clinical features and the presence, in the same genes, of mutations for more than one craniosynostotic condition-such as Saethre-Chotzen, Crouzon, and Pfeiffer syndromes-support the hypothesis that TWIST and FGFRs are components of the same molecular pathway involved in the modulation of craniofacial and limb development in humans.. 
 9585583	saethre - chotzen syndrome	MESH:D000168
 9585583	saethre - chotzen syndrome	MESH:D000168
+9585583	autosomal dominant condition	MESH:D017827
 9585583	craniosynostosis	MESH:D003398
 9585583	limb anomalies	MESH:D017880
 9585583	saethre - chotzen syndrome	MESH:D000168
@@ -648,14 +639,15 @@
 9585583	hypertelorism	MESH:D006972
 9585583	toes	MESH:D000070592
 9585583	clinodactyly	MESH:C537090
-9585583	craniosynostotic	MESH:D003398 OMIM:123100
+9585583	craniosynostotic condition	MESH:D003398 OMIM:123100
 9585583	saethre - chotzen	MESH:D000168 OMIM:101200
 9585583	crouzon	OMIM:123500 MESH:D003394
-9585583	pfeiffer syndromes and	MESH:D000168 OMIM:101200
+9585583	pfeiffer syndromes	MESH:D000168 OMIM:101200
 
 9371490|t|Frequent inactivation of PTEN/MMAC1 in primary prostate cancer.
 9371490|a|Sporadic prostate carcinoma is the most common male cancer in the Western world, yet many of the major genetic events involved in the progression of this often fatal cancer remain to be elucidated. Numerous cytogenetic and allelotype studies have reported frequent loss of heterozygosity on chromosomal arm 10q in sporadic prostate cancer. Deletion mapping studies have unambiguously identified a region of chromosome 10q23 to be the minimal area of loss. A new tumor suppressor gene, PTEN/MMAC1, was isolated recently at this region of chromosome 10q23 and found to be inactivated by mutation in three prostate cancer cell lines. We screened 80 prostate tumors by microsatellite analysis and found chromosome 10q23 to be deleted in 23 cases. We then proceeded with sequence analysis of the entire PTEN/MMAC1 coding region and tested for homozygous deletion with new intragenic markers in these 23 cases with 10q23 loss of heterozygosity. The identification of the second mutational event in 10 (43%) tumors establishes PTEN/MMAC1 as a main inactivation target of 10q loss in sporadic prostate cancer.. 
-9371490	primary prostate cancer	MESH:D011471
+9371490	primary	MESH:D009378
+9371490	prostate cancer	MESH:D011471
 9371490	prostate carcinoma	MESH:D011472
 9371490	male cancer	MESH:D018567
 9371490	cancer	MESH:D009369
@@ -674,6 +666,9 @@
 9521421	autosomal recessive lysosomal storage disorder	MESH:D016464
 9521421	genetic defect	MESH:D030342
 9521421	british - irish	OMIM:176500 MESH:C538208
+9521421	mps iva	MESH:D009085
+9521421	mps iva	MESH:D009085
+9521421	british - irish	OMIM:176500 MESH:C538208
 9521421	british - irish	OMIM:176500 MESH:C538208
 
 9852676|t|Further evidence for a major ancient mutation underlying myotonic dystrophy from linkage disequilibrium studies in the Japanese population.
@@ -687,7 +682,8 @@
 9852676	myotonic dystrophy	MESH:D009223
 9852676	japanese	BERN:261072301
 9852676	myotonic dystrophy	MESH:D009223
-9852676	dm	MESH:D009223
+9852676	myotonic dystrophy	MESH:D009223
+9852676	ataxia	MESH:D001259
 
 9425228|t|Prevalence of p16 and CDK4 germline mutations in 48 melanoma-prone families in France. The French Familial Melanoma Study Group.
 9425228|a|Germline mutations in the p16 and CDK4 genes have been reported in a subset of melanoma pedigrees, but their prevalence is not well known. We searched for such germline mutations in 48 French melanoma-prone families selected according to two major criteria  families with at least three affected members (n = 20) or families with two affected members, one of them affected before the age of 50 (n = 28), and one additional minor criterion. Sixteen different p16 germline mutations were found in 21 families, while one germline mutation, Arg24His, was detected in the CDK4 gene. The frequency of p16 gene mutation in our sample (44%) is among the highest rates yet reported and the CDK4 mutation is the second mutation detected in this gene worldwide. In summary, our results show frequent involvement of the p16 gene in familial melanoma and confirm the role of the CDK4 gene as a melanoma-predisposing gene.. 
@@ -700,13 +696,13 @@
 
 9888388|t|Systematic analysis of coproporphyrinogen oxidase gene defects in hereditary coproporphyria and mutation update.
 9888388|a|Hereditary coproporphyria (HC) is an acute hepatic porphyria with autosomal dominant inheritance caused by deficient activity of coproporphyrinogen III oxidase (CPO). Clinical manifestations of the disease are characterized by acute attacks of neurological dysfunction often precipitated by drugs, fasting, cyclical hormonal changes, or infectious diseases. Skin photosensitivity may also be present. The seven exons, the exon/intron boundaries and part of 3 noncoding sequence of the CPO gene were systematically analyzed by an exon-by-exon denaturing gradient gel electrophoresis (DGGE) strategy followed by direct sequencing in seven unrelated heterozygous HC patients from France, Holland, and Czech Republic. Seven novel mutations and two new polymorphisms were detected. Among these mutations  two are missense (G197W, W427R), two are nonsense (Q306X, Q385X), two are small deletions (662de14bp; 1168del3bp removing a glycine at position 390), and one is a splicing mutation (IVS1-15c-- > g) which creates a new acceptor splice site. The pathological significance of the point mutations G197W, W427R, and the in-frame deletion 390delGly were assessed by their respective expression in a prokaryotic system using site-directed mutagenesis. These mutations resulted in the absence or a dramatic decrease of CPO activity. The two polymorphisms were localized in noncoding part of the gene  1) a C/G polymorphism in the promotor region, 142 bp upstream from the transcriptional initiation site (-142C/G), and 2) a 6 bp deletion polymorphism in the 3 noncoding part of the CPO gene, 574 bp downstream of the last base of the normal termination codon (+ 574 delATTCTT). Five intragenic dimorphisms are now well characterized and the high degree of allelic heterogeneity in HC is demonstrated with seven new different mutations making a total of nineteen CPO gene defects reported so far.. 
+9888388	defects	MESH:D030342
 9888388	hereditary	MESH:D030342
 9888388	hereditary	MESH:D030342
 9888388	hereditary	MESH:D030342
 9888388	acute hepatic porphyria	MESH:C562618
 9888388	neurological dysfunction	MESH:D009422
 9888388	infectious diseases	MESH:D003141
-9888388	skin	MESH:D012871
 9888388	hereditary	MESH:D030342
 9888388	hereditary	MESH:D030342
 9888388	defects	MESH:D030342
@@ -717,8 +713,8 @@
 9463309	anhaptoglobinemia	BERN:260953801
 9463309	anhaptoglobinemia	BERN:260953801
 9463309	hypohaptoglobinemia	BERN:260983801
-9463309	hypohaptoglobinemic	BERN:267415801
-9463309	hypohaptoglobinemic	BERN:267415801
+9463309	be	MESH:D007647
+9463309	be	MESH:D007647
 9463309	anhaptoglobinemia	BERN:260953801
 9463309	hypohaptoglobinemia	BERN:260983801
 
@@ -728,6 +724,7 @@
 9585611	tumor	MESH:D009369
 9585611	adenomatous polyposis coli	MESH:D011125
 9585611	adenomatous polyposis coli	MESH:D011125
+9585611	adenomatous polyposis coli	MESH:D011125
 9585611	familial adenomatous polyposis	MESH:D011125
 9585611	familial adenomatous polyposis	MESH:D011125
 9585611	adenomatous polyposis coli	MESH:D011125
@@ -735,44 +732,55 @@
 9585611	colorectal cancer	MESH:D015179
 9585611	adenomatous polyposis coli	MESH:D011125
 9585611	adenomatous polyposis coli	MESH:D011125
+9585611	adenomatous polyposis coli	MESH:D011125
+9585611	adenomatous polyposis coli	MESH:D011125
+9585611	adenomatous polyposis coli	MESH:D011125
 9585611	colorectal adenomas	MESH:D015179
+9585611	gastrointestinal manifestations	MESH:D005767
 9585611	adenomas	MESH:D000236
-9585611	aapc	MESH:D011125
+9585611	adenomatous polyposis coli	MESH:D011125
 9585611	colorectal adenomas	MESH:D015179
-9585611	rectal polyp sparing	BERN:257781801
+9585611	polyp	MESH:D011127
 9585611	desmoid tumors	MESH:C535944
+9585611	adenomatous polyposis coli	MESH:D011125
 9585611	adenomatous polyposis coli	MESH:D011125
 9585611	familial adenomatous polyposis	MESH:D011125
 
 9724771|t|The APC variants I1307K and E1317Q are associated with colorectal tumors, but not always with a family history.
 9724771|a|Classical familial adenomatous polyposis (FAP) is a high-penetrance autosomal dominant disease that predisposes to hundreds or thousands of colorectal adenomas and carcinoma and that results from truncating mutations in the APC gene. A variant of FAP is attenuated adenomatous polyposis coli, which results from germ-line mutations in the 5 and 3 regions of the APC gene. Attenuated adenomatous polyposis coli patients have " multiple " colorectal adenomas (typically fewer than 100) without the florid phenotype of classical FAP. Another group of patients with multiple adenomas has no mutations in the APC gene, and their phenotype probably results from variation at a locus, or loci, elsewhere in the genome. Recently, however, a missense variant of APC (I1307K) was described that confers an increased risk of colorectal tumors, including multiple adenomas, in Ashkenazim. We have studied a set of 164 patients with multiple colorectal adenomas and/or carcinoma and analyzed codons 1263-1377 (exon 15G) of the APC gene for germ-line variants. Three patients with the I1307K allele were detected, each of Ashkenazi descent. Four patients had a germ-line E1317Q missense variant of APC that was not present in controls; one of these individuals had an unusually large number of metaplastic polyps of the colorectum. There is increasing evidence that there exist germ-line variants of the APC gene that predispose to the development of multiple colorectal adenomas and carcinoma, but without the florid phenotype of classical FAP, and possibly with importance for colorectal cancer risk in the general population.. 
+9724771	adenomatous polyposis coli	MESH:D011125
 9724771	colorectal tumors	MESH:D015179
 9724771	familial adenomatous polyposis	MESH:D011125
-9724771	familial adenomatous polyposis	MESH:D011125
+9724771	fap	MESH:C567782
 9724771	autosomal dominant disease	MESH:D030342
 9724771	colorectal adenomas	MESH:D015179
 9724771	carcinoma	MESH:D002277
-9724771	familial adenomatous polyposis	MESH:D011125
+9724771	adenomatous polyposis coli	MESH:D011125
+9724771	adenomatous polyposis coli	MESH:D011125
 9724771	adenomatous polyposis coli	MESH:D011125
 9724771	adenomatous polyposis coli	MESH:D011125
 9724771	colorectal adenomas	MESH:D015179
-9724771	familial adenomatous polyposis	MESH:D011125
 9724771	multiple adenomas	MESH:D000236
+9724771	adenomatous polyposis coli	MESH:D011125
+9724771	adenomatous polyposis coli	MESH:D011125
 9724771	colorectal tumors	MESH:D015179
 9724771	adenomas	MESH:D000236
 9724771	colorectal adenomas	MESH:D015179
 9724771	carcinoma	MESH:D002277
-9724771	metaplastic polyps colorectum	BERN:267413801
+9724771	adenomatous polyposis coli	MESH:D011125
+9724771	adenomatous polyposis coli	MESH:D011125
+9724771	metaplastic polyps of the colorectum	BERN:267413801
+9724771	adenomatous polyposis coli	MESH:D011125
 9724771	colorectal adenomas	MESH:D015179
 9724771	carcinoma	MESH:D002277
-9724771	familial adenomatous polyposis	MESH:D011125
 9724771	colorectal cancer	MESH:D015179
 
 9585606|t|The hemochromatosis 845 G-->A and 187 C-->G mutations: prevalence in non-Caucasian populations.
 9585606|a|Hemochromatosis, the inherited disorder of iron metabolism, leads, if untreated, to progressive iron overload and premature death. The hemochromatosis gene, HFE, recently has been identified, and characterization of this gene has shown that it contains two mutations that result in amino acid substitutions-cDNA nucleotides 845 G-- > A (C282Y) and 187 C-- > G (H63D). Although hemochromatosis is common in Caucasians, affecting > = 1/300 individuals of northern European origin, it has not been recognized in other populations. The present study used PCR and restriction-enzyme digestion to analyze the frequency of the 845 G-- > A and 187 C-- > G mutations in HLA-typed samples from non-Caucasian populations, comprising Australian Aboriginal, Chinese, and Pacific Islanders. Results showed that the 845 G-- > A mutation was present in these populations (allele frequency 0. 32%), and, furthermore, it was always seen in conjunction with HLA haplotypes common in Caucasians, suggesting that 845 G-- > A may have been introduced into these populations by Caucasian admixture. 187 C-- > G was present at an allele frequency of 2. 68% in the two populations analyzed (Australian Aboriginal and Chinese). In the Australian Aboriginal samples, 187 C-- > G was found to be associated with HLA haplotypes common in Caucasians, suggesting that it was introduced by recent admixture. In the Chinese samples analyzed, 187 C-- > G was present in association with a wide variety of HLA haplotypes, showing this mutation to be widespread and likely to predate the more genetically restricted 845 G-- > A mutation.
 9585606	hemochromatosis	MESH:D006432
 9585606	hemochromatosis	MESH:D006432
-9585606	inherited	MESH:D030342
+9585606	metabolism	MESH:D008659
+9585606	iron overload	MESH:D006432 OMIM:235200
 9585606	hemochromatosis	MESH:D006432
 9585606	hemochromatosis	MESH:D006432
 
@@ -786,7 +794,7 @@
 9689113	von willebrand disease	MESH:D014842
 9689113	defects in hemostasis	MESH:D005128
 9689113	thrombosis	MESH:D013927
-9689113	von	MESH:D014842
+9689113	deficiency	MESH:D007153
 9689113	von willebrand disease	MESH:D014842
 9689113	von willebrand	MESH:D014842
 9689113	thrombosis	MESH:D013927
@@ -797,10 +805,9 @@
 9448273|a|The inactivation of the von Hippel-Lindau (VHL) tumor suppressor gene predisposes affected individuals to the human VHL cancer syndrome and is associated with sporadic renal cell carcinomas (RCC) and brain hemangioblastomas. VHL-negative 786-0 RCC cells are tumorigenic in nude mice which is suppressed by the reintroduction of VHL. Remarkably, this occurs without affecting the growth rate and cell cycle profile of these cells in culture. The 786-0 cell line, like many cancer cells, fails to exit the cell cycle upon serum withdrawal. Here, it is shown that reintroduction of the wild-type VHL gene restores the ability of VHL-negative RCC cancer cells to exit the cell cycle and enter G0/quiescence in low serum. Both VHL-positive and VHL-negative RCC cells exit the cell cycle by contact inhibition. The cyclin-dependent kinase inhibitor, p27, accumulates upon serum withdrawal, only in the presence of VHL, as a result of the stabilization of the protein. We propose that the loss of wild-type VHL gene results in a specific cellular defect in serum-dependent growth control, which may initiate tumor formation. This is corrected by the reintroduction of wild-type VHL, implicating VHL as the first tumor suppressor involved in the regulation of cell cycle exit, which is consistent with its gatekeeper function in the kidney.. 
 9448273	von hippel - lindau tumor	MESH:D006623
 9448273	von hippel - lindau ( vhl ) tumor	MESH:D006623
-9448273	vhl	MESH:D006623
+9448273	cancer syndrome	MESH:D009369
 9448273	sporadic renal cell carcinomas	MESH:C538614
-9448273	rcc	MESH:C538614
-9448273	brain	MESH:D001927
+9448273	hemangioblastomas	MESH:D018325
 9448273	cancer	MESH:D009369
 9448273	cancer	MESH:D009369
 9448273	tumor	MESH:D009369
@@ -820,11 +827,13 @@
 9848786|t|Human complement factor H deficiency associated with hemolytic uremic syndrome.
 9848786|a|This study reports on six cases of deficiency in the human complement regulatory protein Factor H (FH) in the context of an acute renal disease. Five of the cases were observed in children presenting with idiopathic hemolytic uremic syndrome (HUS). Two of the children exhibited a homozygous deficiency characterized by the absence of the 150-kD form of Factor H and the presence, upon immunoblotting, of the 42-kD Factor H-like protein 1 (FHL-1) and other FH-related protein (FHR) bands. Southern blot and PCR analysis of DNA of one patient with homozygous deficiency ruled out the presence of a large deletion of the FH gene as the underlying defect for the deficiency. The other four children presented with heterozygous deficiency and exhibited a normal immunoblotting pattern of proteins of the FH family. Factor H deficiency is the only complement deficiency associated with HUS. These observations suggest a role for FH and/or FH receptors in the pathogenesis of idiopathic HUS.. 
 9848786	complement factor h deficiency	MESH:C562875
-9848786	hemolytic	MESH:D006461
-9848786	deficiency	MESH:D007153
-9848786	acute	MESH:D059787
 9848786	hemolytic uremic syndrome	MESH:D006463
-9848786	hus	MESH:D006463
+9848786	factor h	MESH:C562875
+9848786	renal disease	MESH:D007674
+9848786	idiopathic hemolytic uremic syndrome	MESH:D006463
+9848786	hemolytic uremic syndrome	MESH:D006463
+9848786	fh	MESH:D006938
+9848786	h deficiency	MESH:D000848
 9848786	complement deficiency	MESH:D007153
 9848786	hemolytic uremic syndrome	MESH:D006463
 9848786	idiopathic	MESH:C000598744
@@ -857,17 +866,16 @@
 9869602	colorectal cancer	MESH:D015179
 9869602	israeli	BERN:261071801
 9869602	familial colorectal cancer	MESH:D015179
-9869602	israeli	BERN:261071801
+9869602	israeli jews	BERN:261071801
 9869602	colorectal cancer	MESH:D015179
 9869602	neoplasia	MESH:D009369
 9869602	colorectal cancer	MESH:D015179
 9869602	familial cancer	MESH:D009369
 9869602	cancer	MESH:D009369
 9869602	colorectal neoplasia	MESH:D009369
-9869602	neoplasia	MESH:D009369
-9869602	colorectal	MESH:D015179
+9869602	noncolonic neoplasia	BERN:256225101
 9869602	cancers	MESH:D009369
-9869602	colorectal cancer	MESH:D015179
+9869602	colorectal	MESH:D015179
 
 9336417|t|Susceptibility to ankylosing spondylitis in twins: the role of genes, HLA, and the environment.
 9336417|a|OBJECTIVE  To determine the relative effects of genetic and environmental factors in susceptibility to ankylosing spondylitis (AS). METHODS  Twins with AS were identified from the Royal National Hospital for Rheumatic Diseases database. Clinical and radiographic examinations were performed to establish diagnoses, and disease severity was assessed using a combination of validated scoring systems. HLA typing for HLA-B27, HLA-B60, and HLA-DR1 was performed by polymerase chain reaction with sequence-specific primers, and zygosity was assessed using microsatellite markers. Genetic and environmental variance components were assessed with the program Mx, using data from this and previous studies of twins with AS. RESULTS  Six of 8 monozygotic (MZ) twin pairs were disease concordant, compared with 4 of 15 B27-positive dizygotic (DZ) twin pairs (27%) and 4 of 32 DZ twin pairs overall (12. 5%). Nonsignificant increases in similarity with regard to age at disease onset and all of the disease severity scores assessed were noted in disease-concordant MZ twins compared with concordant DZ twins. HLA-B27 and B60 were associated with the disease in probands, and the rate of disease concordance was significantly increased among DZ twin pairs in which the co-twin was positive for both B27 and DR1. Additive genetic effects were estimated to contribute 97% of the population variance. CONCLUSION  Susceptibility to AS is largely genetically determined, and the environmental trigger for the disease is probably ubiquitous. HLA-B27 accounts for a minority of the overall genetic susceptibility to AS. 
@@ -891,7 +899,7 @@
 9731533	tumour	MESH:D009369
 9731533	tumours	MESH:D009369
 9731533	cancer	MESH:D009369
-9731533	colorectal	MESH:D015179
+9731533	breast and other cancers	MESH:D001943
 
 9465039|t|The hemochromatosis gene product complexes with the transferrin receptor and lowers its affinity for ligand binding.
 9465039|a|We recently reported the positional cloning of a candidate gene for hereditary hemochromatosis called HFE. The gene product, a member of the major histocompatibility complex class I-like family, was found to have a mutation, Cys-282 -- > Tyr (C282Y), in 85% of patient chromosomes. This mutation eliminates the ability of HFE to associate with beta2-microglobulin (beta2m) and prevents cell-surface expression. A second mutation that has no effect on beta2m association, H63D, was found in eight out of nine patients heterozygous for the C282Y mutant. In this report, we demonstrate in cultured 293 cells overexpressing wild-type or mutant HFE proteins that both the wild-type and H63D HFE proteins form stable complexes with the transferrin receptor (TfR). The C282Y mutation nearly completely prevents the association of the mutant HFE protein with the TfR. Studies on cell-associated transferrin at 37 degrees C suggest that the overexpressed wild-type HFE protein decreases the affinity of the TfR for transferrin. The overexpressed H63D protein does not have this effect, providing the first direct evidence for a functional consequence of the H63D mutation. Addition of soluble wild-type HFE/beta2m heterodimers to cultured cells also decreased the apparent affinity of the TfR for its ligand under steady-state conditions, both in 293 cells and in HeLa cells. Furthermore, at 4 degrees C, the added soluble complex of HFE/beta2m inhibited binding of transferrin to HeLa cell TfR in a concentration-dependent manner. Scatchard plots of these data indicate that the added heterodimer substantially reduced the affinity of TfR for transferrin. These results establish a molecular link between HFE and a key protein involved in iron transport, the TfR, and raise the possibility that alterations in this regulatory mechanism may play a role in the pathogenesis of hereditary hemochromatosis.. 
@@ -922,6 +930,7 @@
 
 9973276|t|Inherited colorectal polyposis and cancer risk of the APC I1307K polymorphism.
 9973276|a|Germ-line and somatic truncating mutations of the APC gene are thought to initiate colorectal tumor formation in familial adenomatous polyposis syndrome and sporadic colorectal carcinogenesis, respectively. Recently, an isoleucine-- > lysine polymorphism at codon 1307 (I1307K) of the APC gene has been identified in 6% -7% of the Ashkenazi Jewish population. To assess the risk of this common APC allelic variant in colorectal carcinogenesis, we have analyzed a large cohort of unselected Ashkenazi Jewish subjects with adenomatous polyps and. or colorectal cancer, for the APC I1307K polymorphism. The APC I1307K allele was identified in 48 (10. 1%) of 476 patients. Compared with the frequency in two separate population control groups, the APC I1307K allele is associated with an estimated relative risk of 1. 5-1. 7 for colorectal neoplasia (both P =. 01). Furthermore, compared with noncarriers, APC I1307K carriers had increased numbers of adenomas and colorectal cancers per patient (P =. 03), as well as a younger age at diagnosis. We conclude that the APC I1307K variant leads to increased adenoma formation and directly contributes to 3% -4% of all Ashkenazi Jewish colorectal cancer. The estimated relative risk for carriers may justify specific clinical screening for the 360, 000 Americans expected to harbor this allele, and genetic testing in the setting of long-term-outcome studies may impact significantly on colorectal cancer prevention in this population.
+9973276	colorectal polyposis	MESH:D011125
 9973276	cancer	MESH:D009369
 9973276	colorectal tumor	MESH:D015179
 9973276	familial adenomatous polyposis syndrome	MESH:D011125
@@ -931,13 +940,11 @@
 9973276	adenomas	MESH:D000236
 9973276	colorectal cancers	MESH:D015179
 9973276	adenoma	MESH:D000236
-9973276	ashkenazi jewish	MESH:D011081
 9973276	colorectal cancer	MESH:D015179
 9973276	colorectal cancer	MESH:D015179
 
 9927033|t|Human MLH1 deficiency predisposes to hematological malignancy and neurofibromatosis type 1.
 9927033|a|Heterozygous germ-line mutations in the DNA mismatch repair genes lead to hereditary nonpolyposis colorectal cancer. The disease susceptibility of individuals who constitutionally lack both wild-type alleles is unknown. We have identified three offspring in a hereditary nonpolyposis colorectal cancer family who developed hematological malignancy at a very early age, and at least two of them displayed signs of neurofibromatosis type 1 (NF1). DNA sequence analysis and allele-specific amplification in two siblings revealed a homozygous MLH1 mutation (C676T-- > Arg226Stop). Thus, a homozygous germ-line MLH1 mutation and consequent mismatch repair deficiency results in a mutator phenotype characterized by leukemia and/or lymphoma associated with neurofibromatosis type 1.. 
-9927033	human	MESH:D007251
 9927033	deficiency	MESH:D007153
 9927033	hematological malignancy	MESH:D019337
 9927033	neurofibromatosis type 1	MESH:C537392
@@ -967,7 +974,6 @@
 
 9861003|t|A genome-wide search for chromosomal loci linked to mental health wellness in relatives at high risk for bipolar affective disorder among the Old Order Amish.
 9861003|a|Bipolar affective disorder (BPAD; manic-depressive illness) is characterized by episodes of mania and/or hypomania interspersed with periods of depression. Compelling evidence supports a significant genetic component in the susceptibility to develop BPAD. To date, however, linkage studies have attempted only to identify chromosomal loci that cause or increase the risk of developing BPAD. To determine whether there could be protective alleles that prevent or reduce the risk of developing BPAD, similar to what is observed in other genetic disorders, we used mental health wellness (absence of any psychiatric disorder) as the phenotype in our genome-wide linkage scan of several large multigeneration Old Order Amish pedigrees exhibiting an extremely high incidence of BPAD. We have found strong evidence for a locus on chromosome 4p at D4S2949 (maximum GENEHUNTER-PLUS nonparametric linkage score = 4. 05, P = 5. 22 x 10 (-4); SIBPAL Pempirical value < 3 x 10 (-5)) and suggestive evidence for a locus on chromosome 4q at D4S397 (maximum GENEHUNTER-PLUS nonparametric linkage score = 3. 29, P = 2. 57 x 10 (-3); SIBPAL Pempirical value < 1 x 10 (-3)) that are linked to mental health wellness. These findings are consistent with the hypothesis that certain alleles could prevent or modify the clinical manifestations of BPAD and perhaps other related affective disorders.
-9861003	mental health	OMIM:603663
 9861003	bipolar affective disorder	MESH:D001714
 9861003	bipolar affective disorder	MESH:D001714
 9861003	manic - depressive illness	MESH:C564108
@@ -978,7 +984,6 @@
 9861003	bpad	MESH:C567075
 9861003	bpad	MESH:C567075
 9861003	genetic disorders	MESH:D030342
-9861003	mental health	OMIM:603663
 9861003	psychiatric disorder	MESH:D001523
 9861003	bpad	MESH:C567075
 9861003	mental health	OMIM:603663
@@ -1005,12 +1010,14 @@
 9439660|t|Detection of heterozygous carriers of the ataxia-telangiectasia (ATM) gene by G2 phase chromosomal radiosensitivity of peripheral blood lymphocytes.
 9439660|a|In ataxia-telangiectasia (A-T) patients, mutations in a single gene, ATM, result in an autosomal recessive syndrome that embraces a variety of clinical features and manifests extreme radiosensitivity and a strong pre-disposition to malignancy. Heterozygotes for the ATM gene have no clinical expression of A-T but may be cancer prone with a moderate increase in in vitro radiosensitivity. We performed a blind chromosomal analysis on G2-phase lymphocytes from 7 unrelated A-T patients, 13 obligate A-T heterozygotes (parents of the patients), and 14 normal controls following X-irradiation with 1 Gy in order to evaluate this cytogenetic method as a tool for detection of ATM carriers. Both A-T homozygotes and heterozygotes showed significantly increased levels of radiation-induced chromatid damage relative to that of normal controls. These results show that the G2-phase chromosomal radiosensitivity assay can be used for the detection of A-T heterozygotes. In combination with molecular genetic analyses, this test may be of value in studies of familial and sporadic cancers aimed at determination of the potential involvement of ATM mutations in tumor risk or development.. 
 9439660	ataxia - telangiectasia	MESH:D001260
-9439660	ataxia	MESH:D001259
-9439660	autosomal recessive syndrome	MESH:D030342
-9439660	malignancy	MESH:D009369
-9439660	cancer	MESH:D009369
-9439660	familial	MESH:D009394
 9439660	ataxia - telangiectasia	MESH:D001260
+9439660	a - t	MESH:D001260
+9439660	autosomal recessive syndrome	MESH:D030342
+9439660	cancer	MESH:D009369
+9439660	a - t	MESH:D001260
+9439660	a - t	MESH:D001260
+9439660	sporadic cancers	MESH:D009369
+9439660	a - t	MESH:D001260
 9439660	tumor	MESH:D009369
 
 9856498|t|The molecular basis of C6 deficiency in the western Cape, South Africa.
@@ -1025,7 +1032,10 @@
 9744473|t|The R496H mutation of arylsulfatase A does not cause metachromatic leukodystrophy.
 9744473|a|Deficiency of arylsulfatase A (ARSA) enzyme activity causes metachromatic leukodystrophy (MLD). A number of ARSA gene mutations responsible for MLD have been identified. Recently, the R496H mutation of ARSA was proposed to be a cause of MLD (Draghia et al., 1997). We have investigated the R496H mutation and found this mutation at a relatively high frequency in an African American population (f = 0. 09, n = 61 subjects). The ARSA enzyme activity in subjects with and without the R496H mutation was determined and found to be normal. It is therefore concluded that the R496H mutation of ARSA does not negatively influence the activity of ARSA and is not a cause of MLD 
 9744473	metachromatic leukodystrophy	MESH:D007966
+9744473	deficiency of arylsulfatase a	MESH:D007966
 9744473	metachromatic leukodystrophy	MESH:D007966
+9744473	mld	MESH:D007966
+9744473	mld	MESH:D007966
 9744473	mld	MESH:D007966
 
 9450866|t|Piebaldism with deafness: molecular evidence for an expanded syndrome.
@@ -1034,8 +1044,9 @@
 9450866	deafness	MESH:D003638
 9450866	xhosa	BERN:CUI-less
 9450866	piebaldism	MESH:D016116
-9450866	congenital sensorineural deafness	MESH:C564433
-9450866	auditory	MESH:D006311
+9450866	congenital	MESH:D000013
+9450866	sensorineural deafness	MESH:D006313
+9450866	anomalies	MESH:D000014
 9450866	deafness	MESH:D003638
 9450866	piebaldism	MESH:D016116
 9450866	sensorineural deafness	MESH:D006313
@@ -1050,11 +1061,10 @@
 9497246	inherited breast cancer	MESH:D061325
 9497246	breast cancer	MESH:D001943
 9497246	breast cancer	MESH:D001943
-9497246	ovarian	MESH:D010049
+9497246	other cancers	MESH:D009369
 9497246	breast - ovarian cancer	MESH:D010051
-9497246	male	MESH:C567010
 9497246	female breast cancer	MESH:D001943
-9497246	brca2	BERN:261289801
+9497246	female breast cancer	MESH:D001943
 9497246	breast cancer	MESH:D001943
 9497246	ovarian cancer	MESH:D010051
 9497246	breast cancer	MESH:D001943
@@ -1065,9 +1075,10 @@
 9620771	adrenal insufficiency	MESH:D000309
 9620771	red hair pigmentation	MESH:C567091
 9620771	deficiency	MESH:D007153
-9620771	inherited	MESH:D030342
+9620771	defect	MESH:D000014
 9620771	obesity	MESH:D009765
 9620771	obesity	MESH:D009765
+9620771	hair pigmentation	MESH:D010859
 9620771	obesity	MESH:D009765
 9620771	pigmentation	MESH:D010859
 9620771	deficiency	MESH:D007153
@@ -1095,14 +1106,13 @@
 941901|t|Low levels of beta hexosaminidase A in healthy individuals with apparent deficiency of this enzyme.
 941901|a|Appreciable beta hexosaminidase A (hex A) activity has been detected in cultured skin fibroblasts and melanoma tissue from healthy individuals previously reported as having deficiency of hex A activity indistinguishable from that of patients with Tay-Sachs disease (TSD). Identification and quantitation of hex A, amounting to 3. 5% -6. 9% of total beta hexosaminidase activity, has been obtained by cellulose acetate gel electrophoresis, DEAE-cellulose ion-exchange chromatography, radial immunodiffusion, and radioimmunoassay. Previous family studies suggested that these individuals may be compound heterozygotes for the common mutant TSD gene and a rare (allelic) mutant gene. Thus, the postulated rate mutant gene appears to code for the expression of low amounts of hex A. Heterozygotes for the rare mutant may be indistinguishable from heterozygotes for the common TSD mutant. However, direct visualization and quantitation of hex A by the methods described may prevent false-positive prenatal diagnosis of TSD in fetuses having the incomplete hex A deficiency of the type described in the four healthy individuals 
 941901	melanoma	MESH:D008545
-941901	deficiency	MESH:D007153
+941901	activity	MESH:D006521
 941901	tay - sachs disease	MESH:D013661
 941901	tay - sachs disease	MESH:D013661
 941901	tay - sachs disease	MESH:D013661
 941901	tay - sachs disease	MESH:D013661
 941901	tay - sachs disease	MESH:D013661
-941901	incomplete hex	MESH:D000027
-941901	deficiency	MESH:D007153
+941901	a deficiency	MESH:D007153
 
 9590284|t|A mouse model for Prader-Willi syndrome imprinting-centre mutations.
 9590284|a|Imprinting in the 15q11-q13 region involves an imprinting centre (IC), mapping in part to the promoter and first exon of SNRPN. Deletion of this IC abolishes local paternally derived gene expression and results in Prader-Willi syndrome (PWS). We have created two deletion mutations in mice to understand PWS and the mechanism of this IC. Mice harbouring an intragenic deletion in Snrpn are phenotypically normal, suggesting that mutations of SNRPN are not sufficient to induce PWS. Mice with a larger deletion involving both Snrpn and the putative PWS-IC lack expression of the imprinted genes Zfp127 (mouse homologue of ZNF127), Ndn and Ipw, and manifest several phenotypes common to PWS infants. These data demonstrate that both the position of the IC and its role in the coordinate expression of genes is conserved between mouse and human, and indicate that the mouse is a suitable model system in which to investigate the molecular mechanisms of imprinting in this region of the genome.. 
@@ -1124,6 +1134,7 @@
 9457914	nail dystrophy	MESH:D009260
 9457914	alopecia	MESH:D000505
 9457914	dental abnormalities	MESH:D009057
+9457914	skin fragility	MESH:C536183
 9457914	austrian	BERN:CUI-less
 9457914	atrophic benign epidermolysis bullosa	MESH:D016109
 
@@ -1133,7 +1144,7 @@
 9843038	hereditary	MESH:D030342
 9843038	hcp	MESH:D046349
 9843038	autosomal dominant disease	MESH:D030342
-9843038	deficiency	MESH:D007153
+9843038	a deficiency	MESH:D007153
 9843038	hcp	MESH:D046349
 
 993342|t|The chromosomal order of genes controlling the major histocompatibility complex, properdin factor B, and deficiency of the second component of complement.
@@ -1141,7 +1152,6 @@
 993342	deficiency	MESH:D007153
 993342	deficiency	MESH:D007153
 993342	tissue disorders	MESH:D012516
-993342	deficiency	MESH:D007153
 993342	deficiency	MESH:D007153
 993342	deficiency	MESH:D007153
 993342	deficiency	MESH:D007153
@@ -1194,12 +1204,9 @@
 9391889	congenital myotonic dystrophy	MESH:D009223
 9391889	dm	MESH:D009223
 9391889	mentally retarded	MESH:D008607
-9391889	muscular weakness	MESH:D018908
-9391889	congenital	MESH:D000013
-9391889	congenital	MESH:D000013
-9391889	congenital	MESH:D000013
-9391889	congenital	MESH:D000013
-9391889	congenital	MESH:D000013
+9391889	dm	MESH:D009223
+9391889	dm	MESH:D009223
+9391889	dm	MESH:D009223
 9391889	dm	MESH:D009223
 
 9465301|t|Genomic organization of the UBE3A/E6-AP gene and related pseudogenes.
@@ -1212,22 +1219,23 @@
 9949197	emery - dreifuss muscular dystrophy	MESH:D020389
 9949197	emery - dreifuss muscular dystrophy	MESH:D020389
 9949197	emery - dreifuss muscular dystrophy	MESH:D020389
-9949197	cardiac defects	MESH:D006331
+9949197	cardiac	MESH:D006331
 9949197	emery - dreifuss muscular dystrophy	MESH:D020389
 9949197	emery - dreifuss muscular dystrophy	MESH:D020389
 9949197	emery - dreifuss muscular dystrophy	MESH:D020389
 
 9988281|t|Localization of human BRCA1 and its loss in high-grade, non-inherited breast carcinomas.
 9988281|a|Although the link between the BRCA1 tumour-suppressor gene and hereditary breast and ovarian cancer is established, the role, if any, of BRCA1 in non-familial cancers is unclear. BRCA1 mutations are rare in sporadic cancers, but loss of BRCA1 resulting from reduced expression or incorrect subcellular localization is postulated to be important in non-familial breast and ovarian cancers. Epigenetic loss, however, has not received general acceptance due to controversy regarding the subcellular localization of BRCA1 proteins, reports of which have ranged from exclusively nuclear, to conditionally nuclear, to the ER/golgi, to cytoplasmic invaginations into the nucleus. In an attempt to resolve this issue, we have comprehensively characterized 19 anti-BRCA1 antibodies. These reagents detect a 220-kD protein localized in discrete nuclear foci in all epithelial cell lines, including those derived from breast malignancies. Immunohistochemical staining of human breast specimens also revealed BRCA1 nuclear foci in benign breast, invasive lobular cancers and low-grade ductal carcinomas. Conversely, BRCA1 expression was reduced or undetectable in the majority of high-grade, ductal carcinomas, suggesting that absence of BRCA1 may contribute to the pathogenesis of a significant percentage of sporadic breast cancers.. 
-9988281	high	MESH:D052456
+9988281	high - grade non - inherited breast carcinomas	MESH:D008228 OMIM:605027
 9988281	tumour	MESH:D009369
 9988281	hereditary breast and ovarian cancer	MESH:D061325
-9988281	familial cancers	MESH:D009369
+9988281	non - familial cancers	BERN:258004301
 9988281	sporadic cancers	MESH:D009369
-9988281	familial breast and ovarian cancers	MESH:D061325
+9988281	non - familial breast and ovarian cancers	BERN:267304801
 9988281	breast malignancies	MESH:D001943
+9988281	breast	MESH:D061325
 9988281	lobular cancers	MESH:D013274
-9988281	low	MESH:D009800
+9988281	ductal carcinomas	MESH:D044584
 9988281	ductal carcinomas	MESH:D044584
 9988281	sporadic breast cancers	MESH:D001943
 
